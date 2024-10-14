@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_151a1e2f92b836b517cf50b53318919c {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_151a1e2f92b836b517cf50b53318919c" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_151a1e2f92b836b517cf50b53318919c = L.map(
+                "map_151a1e2f92b836b517cf50b53318919c",
+                {
+                    center: [20.0, 0.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 2,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_65a76e9945c43685308e59e6b1c67f78 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_65a76e9945c43685308e59e6b1c67f78.addTo(map_151a1e2f92b836b517cf50b53318919c);
+        
+    
+            var marker_c3ac48147466ff4bc6e0355592b52fa7 = L.marker(
+                [56.130366, -106.346771],
+                {}
+            ).addTo(map_151a1e2f92b836b517cf50b53318919c);
+        
+    
+            var icon_bc00555430550f1d1710c33c1c2aa647 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_c3ac48147466ff4bc6e0355592b52fa7.setIcon(icon_bc00555430550f1d1710c33c1c2aa647);
+        
+    
+        var popup_b9c3d5242c2271b20c7abd932a8267b2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_935b0cac824a7cf1b915ab0f963cd74f = $(`<div id="html_935b0cac824a7cf1b915ab0f963cd74f" style="width: 100.0%; height: 100.0%;">Country: CANADA, Movies: 122, TV Shows: 59</div>`)[0];
+                popup_b9c3d5242c2271b20c7abd932a8267b2.setContent(html_935b0cac824a7cf1b915ab0f963cd74f);
+            
+        
+
+        marker_c3ac48147466ff4bc6e0355592b52fa7.bindPopup(popup_b9c3d5242c2271b20c7abd932a8267b2)
+        ;
+
+        
+    
+    
+            var marker_03d46e2bdf30e8cc7e2171deab069e3a = L.marker(
+                [26.820553, 30.802498],
+                {}
+            ).addTo(map_151a1e2f92b836b517cf50b53318919c);
+        
+    
+            var icon_6029c8da24d6788fe2dd65cfd85c76db = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_03d46e2bdf30e8cc7e2171deab069e3a.setIcon(icon_6029c8da24d6788fe2dd65cfd85c76db);
+        
+    
+        var popup_b4e1a553353ceacb0339134363f4f3ac = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a6f8da4084b9882f2e68179587eed388 = $(`<div id="html_a6f8da4084b9882f2e68179587eed388" style="width: 100.0%; height: 100.0%;">Country: EGYPT, Movies: 92, TV Shows: 14</div>`)[0];
+                popup_b4e1a553353ceacb0339134363f4f3ac.setContent(html_a6f8da4084b9882f2e68179587eed388);
+            
+        
+
+        marker_03d46e2bdf30e8cc7e2171deab069e3a.bindPopup(popup_b4e1a553353ceacb0339134363f4f3ac)
+        ;
+
+        
+    
+    
+            var marker_895190d0e52cf7cb1c6e39c32bfe758d = L.marker(
+                [40.463667, -3.74922],
+                {}
+            ).addTo(map_151a1e2f92b836b517cf50b53318919c);
+        
+    
+            var icon_528b9fc08fad33a3a0e5b147c58b7fe8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_895190d0e52cf7cb1c6e39c32bfe758d.setIcon(icon_528b9fc08fad33a3a0e5b147c58b7fe8);
+        
+    
+        var popup_c43d88aa4f09427719ca733e6b4f9fa4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_931b10a7df8aeb9f0ac6f7070e3b8353 = $(`<div id="html_931b10a7df8aeb9f0ac6f7070e3b8353" style="width: 100.0%; height: 100.0%;">Country: SPAIN, Movies: 97, TV Shows: 48</div>`)[0];
+                popup_c43d88aa4f09427719ca733e6b4f9fa4.setContent(html_931b10a7df8aeb9f0ac6f7070e3b8353);
+            
+        
+
+        marker_895190d0e52cf7cb1c6e39c32bfe758d.bindPopup(popup_c43d88aa4f09427719ca733e6b4f9fa4)
+        ;
+
+        
+    
+    
+            var marker_9282fc063b723a33105b6934025a54a5 = L.marker(
+                [55.378051, -3.435973],
+                {}
+            ).addTo(map_151a1e2f92b836b517cf50b53318919c);
+        
+    
+            var icon_3be0a94a0b13640971ebd08e56158101 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "hotpink", "prefix": "glyphicon"}
+            );
+            marker_9282fc063b723a33105b6934025a54a5.setIcon(icon_3be0a94a0b13640971ebd08e56158101);
+        
+    
+        var popup_aefe6f34eeb7bc0f40df98df6ca519af = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d42678af423c65f3c87b1b20047927a0 = $(`<div id="html_d42678af423c65f3c87b1b20047927a0" style="width: 100.0%; height: 100.0%;">Country: UNITED KINGDOM, Movies: 206, TV Shows: 213</div>`)[0];
+                popup_aefe6f34eeb7bc0f40df98df6ca519af.setContent(html_d42678af423c65f3c87b1b20047927a0);
+            
+        
+
+        marker_9282fc063b723a33105b6934025a54a5.bindPopup(popup_aefe6f34eeb7bc0f40df98df6ca519af)
+        ;
+
+        
+    
+    
+            var marker_c3c00b4270782d483aa25d7833dc54d5 = L.marker(
+                [-0.789275, 113.921327],
+                {}
+            ).addTo(map_151a1e2f92b836b517cf50b53318919c);
+        
+    
+            var icon_bbadb0eac5a145d446980dda31c713fd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_c3c00b4270782d483aa25d7833dc54d5.setIcon(icon_bbadb0eac5a145d446980dda31c713fd);
+        
+    
+        var popup_e859ff1b4ce5e8ba636f6461cb0264f7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_20fb63b49e7c3b92f9bab91e467ec67a = $(`<div id="html_20fb63b49e7c3b92f9bab91e467ec67a" style="width: 100.0%; height: 100.0%;">Country: INDONESIA, Movies: 77, TV Shows: 2</div>`)[0];
+                popup_e859ff1b4ce5e8ba636f6461cb0264f7.setContent(html_20fb63b49e7c3b92f9bab91e467ec67a);
+            
+        
+
+        marker_c3c00b4270782d483aa25d7833dc54d5.bindPopup(popup_e859ff1b4ce5e8ba636f6461cb0264f7)
+        ;
+
+        
+    
+    
+            var marker_ca1008ecc98b4c0ac57ef130ddec6fc8 = L.marker(
+                [20.593684, 78.96288],
+                {}
+            ).addTo(map_151a1e2f92b836b517cf50b53318919c);
+        
+    
+            var icon_869274a6ea1f8e42f84486cb02ee3c13 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_ca1008ecc98b4c0ac57ef130ddec6fc8.setIcon(icon_869274a6ea1f8e42f84486cb02ee3c13);
+        
+    
+        var popup_0813595b008e8a1c03b7360ddd1ef1cc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4d5cc5904c9ee48b615a6daef2ecf1b5 = $(`<div id="html_4d5cc5904c9ee48b615a6daef2ecf1b5" style="width: 100.0%; height: 100.0%;">Country: INDIA, Movies: 893, TV Shows: 79</div>`)[0];
+                popup_0813595b008e8a1c03b7360ddd1ef1cc.setContent(html_4d5cc5904c9ee48b615a6daef2ecf1b5);
+            
+        
+
+        marker_ca1008ecc98b4c0ac57ef130ddec6fc8.bindPopup(popup_0813595b008e8a1c03b7360ddd1ef1cc)
+        ;
+
+        
+    
+    
+            var marker_4e0ec27a37b45531440f182d20ffa594 = L.marker(
+                [9.081999, 8.675277],
+                {}
+            ).addTo(map_151a1e2f92b836b517cf50b53318919c);
+        
+    
+            var icon_2dd0c80ad868f3894e502f191df004b4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_4e0ec27a37b45531440f182d20ffa594.setIcon(icon_2dd0c80ad868f3894e502f191df004b4);
+        
+    
+        var popup_7c7695b95686e693b84f3c26ec442697 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d7cff8c604afa0886939cd2a8624bafd = $(`<div id="html_d7cff8c604afa0886939cd2a8624bafd" style="width: 100.0%; height: 100.0%;">Country: NIGERIA, Movies: 86, TV Shows: 9</div>`)[0];
+                popup_7c7695b95686e693b84f3c26ec442697.setContent(html_d7cff8c604afa0886939cd2a8624bafd);
+            
+        
+
+        marker_4e0ec27a37b45531440f182d20ffa594.bindPopup(popup_7c7695b95686e693b84f3c26ec442697)
+        ;
+
+        
+    
+    
+            var marker_043de25ea70cbe4ffd1560637dbd7a3b = L.marker(
+                [38.963745, 35.243322],
+                {}
+            ).addTo(map_151a1e2f92b836b517cf50b53318919c);
+        
+    
+            var icon_246751163fc80814c2f59c0cf7ea7c65 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_043de25ea70cbe4ffd1560637dbd7a3b.setIcon(icon_246751163fc80814c2f59c0cf7ea7c65);
+        
+    
+        var popup_05650fe674e6176ab4ee46768e3928f8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_75afc49aca7c8fe2ed69849e61059405 = $(`<div id="html_75afc49aca7c8fe2ed69849e61059405" style="width: 100.0%; height: 100.0%;">Country: TURKEY, Movies: 76, TV Shows: 29</div>`)[0];
+                popup_05650fe674e6176ab4ee46768e3928f8.setContent(html_75afc49aca7c8fe2ed69849e61059405);
+            
+        
+
+        marker_043de25ea70cbe4ffd1560637dbd7a3b.bindPopup(popup_05650fe674e6176ab4ee46768e3928f8)
+        ;
+
+        
+    
+    
+            var marker_2eda731e000a396890e3e26b3c6da0b0 = L.marker(
+                [37.09024, -95.712891],
+                {}
+            ).addTo(map_151a1e2f92b836b517cf50b53318919c);
+        
+    
+            var icon_1896d376e6ede4f80c1ec3a62d00036c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_2eda731e000a396890e3e26b3c6da0b0.setIcon(icon_1896d376e6ede4f80c1ec3a62d00036c);
+        
+    
+        var popup_e60ef84301dfc6a75f5baefc425a94cf = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a9dece27ca0933fbca82277d5647951f = $(`<div id="html_a9dece27ca0933fbca82277d5647951f" style="width: 100.0%; height: 100.0%;">Country: UNITED STATES, Movies: 2058, TV Shows: 760</div>`)[0];
+                popup_e60ef84301dfc6a75f5baefc425a94cf.setContent(html_a9dece27ca0933fbca82277d5647951f);
+            
+        
+
+        marker_2eda731e000a396890e3e26b3c6da0b0.bindPopup(popup_e60ef84301dfc6a75f5baefc425a94cf)
+        ;
+
+        
+    
+</script>
+</html>
