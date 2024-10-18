@@ -27,7 +27,7 @@ Explore the following EDA projects to see how I applied data analysis techniques
    - **Goal:** To analyze Amazon sales data, focusing on identifying key factors that drive product sales and understanding seasonal trends.
   
 
-   _[View Project](link-to-amazon-sales-project)_
+   _[View Project](https://github.com/fatihhyavuz/EDA-Projects/tree/main/Amazom%20Sales)
 
 ### 2. **Auto Sales EDA**
    - **Goal:** Examine auto sales data to uncover trends in vehicle sales by brand, model, and region.
