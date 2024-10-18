@@ -27,44 +27,44 @@ Explore the following EDA projects to see how I applied data analysis techniques
    - **Goal:** To analyze Amazon sales data, focusing on identifying key factors that drive product sales and understanding seasonal trends.
   
 
-   _[View Project](https://github.com/fatihhyavuz/EDA-Projects/tree/main/Amazom%20Sales)
+   [View Project](https://github.com/fatihhyavuz/EDA-Projects/tree/main/Amazom%20Sales)
 
 ### 2. **Auto Sales EDA**
    - **Goal:** Examine auto sales data to uncover trends in vehicle sales by brand, model, and region.
   
 
-   _[View Project](link-to-auto-sales-project)_
+   [View Project](https://github.com/fatihhyavuz/EDA-Projects/tree/main/Auto%20Sales%20EDA)
 
 ### 3. **General EDA**
    - **Goal:** General exploratory data analysis on various datasets.
   
 
-   _[View Project](link-to-general-EDA)_
+   [View Project](https://github.com/fatihhyavuz/EDA-Projects/tree/main/EDA/)
 
 ### 4. **Mini EDA and Data Visualization Project**
    - **Goal:** A small-scale EDA project focusing on key visualization techniques and simple data exploration.
   
 
-   _[View Project](link-to-mini-eda-project)_
+   [View Project](https://github.com/fatihhyavuz/EDA-Projects/tree/main/Mini%20EDA%20and%20Data%20Visualiztion%20Project)
 
 ### 5. **Sales Analysis ** 
 
    - **Goal:** To analyze sales data from different industries and identify revenue drivers and customer segments.
   
 
-   _[View Project](link-to-sales-analysis-project)_
+  [View Project](https://github.com/fatihhyavuz/EDA-Projects/tree/main/Sales-Analysis)
 
 ### 6. **Ultra-Marathon Running Data**
    - **Goal:** Explore performance and participation trends in ultra-marathons.
 
 
-   _[View Project](link-to-ultra-marathon-project)_
+   [View Project](https://github.com/fatihhyavuz/EDA-Projects/tree/main/Ultra-Marathon-Runing)
 
 ### 7. **Netflix Data Analysis**
    - **Goal:** Analyze Netflix viewing data to understand user preferences and trends in popular content.
   
 
-   _[View Project](link-to-netflix-analysis)_
+  [View Project](https://github.com/fatihhyavuz/EDA-Projects/tree/main/netflix)
 
 ## 🚀 Getting Started
 
