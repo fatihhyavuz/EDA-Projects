@@ -66,6 +66,14 @@ Explore the following EDA projects to see how I applied data analysis techniques
 
   [View Project](https://github.com/fatihhyavuz/EDA-Projects/tree/main/netflix)
 
+### 8. **Student-Performance-Factors-Analysis**
+   - **Goal:** comprehensive EDA study that aims to gain data-driven insights by analyzing various factors affecting students' achievement.
+  
+
+  [View Project](https://github.com/fatihhyavuz/EDA-Projects/tree/master/Student-Performance-Factors-Analysis)
+
+  
+
 ## 🚀 Getting Started
 
 To explore these projects on your local machine, follow these steps:
