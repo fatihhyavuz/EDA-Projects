@@ -1,0 +1,1797 @@
+,brand,model,ram,storage,color,free,final_price
+0,Realme,C55,8.0,256.0,Yellow,Yes,231.6
+1,Samsung,Galaxy M23,4.0,128.0,Blue,Yes,279.0
+2,Motorola,Moto G13,4.0,128.0,Blue,Yes,179.01
+3,Xiaomi,Redmi Note 11S,6.0,128.0,Gray,Yes,279.99
+4,Nothing,Phone (2),12.0,512.0,White,Yes,799.0
+5,Motorola,Moto E32s,4.0,64.0,Gray,Yes,148.52
+6,Nothing,Phone (2),12.0,256.0,White,Yes,699.0
+7,Realme,9 Pro,8.0,128.0,Black,Yes,352.59
+8,Samsung,Galaxy M23,4.0,128.0,Green,Yes,279.0
+9,Xiaomi,Redmi Note 12,8.0,256.0,Gray,Yes,329.99
+10,POCO,M4,6.0,128.0,Black,Yes,219.99
+11,Realme,C31,4.0,64.0,Silver,Yes,172.59
+12,Realme,C55,8.0,256.0,Black,Yes,231.6
+13,Xiaomi,Redmi Note 12,8.0,256.0,Black,Yes,382.99
+14,Xiaomi,Redmi Note 12,8.0,256.0,Blue,Yes,399.91
+15,Xiaomi,Redmi Note 12,4.0,128.0,Gray,Yes,249.99
+16,Apple,iPhone 14,7.0,128.0,Black,Yes,1009.0
+17,Xiaomi,Redmi Note 12,8.0,256.0,Blue,Yes,249.26
+18,Samsung,Galaxy M13,4.0,64.0,Green,Yes,179.0
+19,Xiaomi,Redmi 10C,4.0,64.0,Gray,Yes,179.99
+20,Realme,Narzo 50i,3.0,32.0,Blue,Yes,141.6
+21,Realme,11 Pro,8.0,256.0,White,Yes,401.6
+22,POCO,X5 Pro,8.0,256.0,Black,Yes,392.6
+23,Xiaomi,Redmi Note 11,4.0,128.0,Gray,Yes,219.99
+24,Realme,C53,6.0,128.0,Gold,Yes,181.6
+25,Apple,iPhone 14,7.0,256.0,Black,Yes,1599.0
+26,Motorola,Moto E20,2.0,32.0,Gray,Yes,106.0
+27,Realme,10 AMOLED,8.0,128.0,Black,Yes,281.6
+28,Samsung,Galaxy M53,8.0,128.0,Brown,Yes,419.0
+29,Realme,10 AMOLED,8.0,128.0,White,Yes,281.6
+30,Realme,C53,6.0,128.0,Black,Yes,181.6
+31,Apple,iPhone 14,7.0,128.0,Black,Yes,1469.0
+32,Realme,11 Pro,12.0,512.0,White,Yes,521.6
+33,Realme,10 AMOLED,8.0,256.0,White,Yes,301.6
+34,POCO,X5 Pro,8.0,256.0,Blue,Yes,391.99
+35,Realme,10 AMOLED,8.0,256.0,Black,Yes,299.0
+36,POCO,M4,6.0,128.0,Blue,Yes,219.99
+37,Xiaomi,Redmi Note 12,4.0,128.0,Green,Yes,168.9
+38,Samsung,Galaxy M33,6.0,128.0,Blue,Yes,299.0
+39,Apple,iPhone 14,7.0,128.0,Gold,Yes,1469.0
+40,Realme,C31,4.0,64.0,Green,Yes,172.59
+41,Xiaomi,Redmi Note 12,4.0,128.0,Blue,Yes,249.99
+42,Xiaomi,Redmi 10C,4.0,128.0,Blue,Yes,199.0
+43,Realme,11 Pro,12.0,512.0,Black,Yes,521.6
+44,Realme,9,4.0,64.0,Black,Yes,262.58
+45,Motorola,Moto G23,8.0,128.0,Gray,Yes,229.0
+46,Realme,C33,4.0,128.0,Black,Yes,192.59
+47,Realme,Narzo 50A,4.0,64.0,Blue,Yes,172.59
+48,Xiaomi,Redmi 9C,3.0,64.0,Green,Yes,159.0
+49,Realme,11 Pro,8.0,256.0,Black,Yes,401.6
+50,Xiaomi,Redmi A1,2.0,32.0,Black,Yes,109.0
+51,Motorola,Moto G32,6.0,128.0,Silver,Yes,209.0
+52,POCO,X5,8.0,256.0,Black,Yes,343.99
+53,Xiaomi,Redmi Note 12,8.0,256.0,White,Yes,329.37
+54,Nothing,Phone (2),12.0,256.0,Gray,Yes,699.0
+55,Motorola,Moto G73,8.0,256.0,Gold,Yes,299.0
+56,Samsung,Galaxy A54,8.0,128.0,Black,Yes,377.96
+57,Xiaomi,Redmi A1,2.0,32.0,Blue,Yes,109.0
+59,Xiaomi,Redmi A1,2.0,32.0,Green,Yes,109.0
+60,Xiaomi,Redmi 12C,4.0,128.0,Gray,Yes,123.0
+61,Xiaomi,Redmi 10A,2.0,32.0,Gray,Yes,95.59
+62,Realme,9,6.0,128.0,Black,Yes,281.6
+63,Xiaomi,Redmi Note 12,4.0,128.0,Gray,Yes,249.0
+64,Xiaomi,Redmi Note 12,4.0,128.0,Green,Yes,279.0
+65,Realme,GT2,8.0,128.0,White,Yes,552.59
+66,Xiaomi,Redmi Note 12,4.0,128.0,Blue,Yes,249.0
+67,Xiaomi,Redmi Note 12,8.0,256.0,White,Yes,261.95
+68,Motorola,Moto G13,4.0,128.0,Gray,Yes,179.0
+69,Xiaomi,Redmi Note 12,4.0,64.0,Blue,Yes,229.0
+70,Xiaomi,Redmi 10A,4.0,128.0,Gray,Yes,179.0
+71,Realme,Narzo 50A,4.0,64.0,Black,Yes,172.59
+72,Realme,C30,3.0,32.0,Blue,Yes,142.59
+73,Motorola,Moto E13,2.0,64.0,Black,Yes,119.0
+74,Motorola,Edge 30,12.0,256.0,Gray,Yes,899.0
+75,Xiaomi,Redmi 10A,3.0,64.0,Gray,Yes,159.0
+76,Realme,C30,3.0,32.0,Green,Yes,142.59
+77,Xiaomi,Redmi Note 12,4.0,64.0,Gray,Yes,229.0
+78,Xiaomi,Redmi 12C,3.0,64.0,Gray,Yes,169.0
+79,Xiaomi,11 Pro,8.0,256.0,Gray,Yes,449.99
+80,Xiaomi,Redmi Note 12,8.0,128.0,Blue,Yes,399.0
+81,Realme,GT Neo 3,12.0,256.0,White,Yes,702.59
+82,Realme,9,4.0,128.0,White,Yes,282.58
+83,Samsung,Galaxy A34,8.0,256.0,Green,Yes,469.0
+84,Xiaomi,Redmi Note 12,8.0,256.0,Blue,Yes,379.95
+85,Xiaomi,Redmi Note 12,8.0,256.0,Black,Yes,499.0
+86,Xiaomi,11 Pro,8.0,256.0,Green,Yes,449.99
+87,Realme,C33,4.0,128.0,Gold,Yes,192.59
+88,Apple,iPhone 14,7.0,128.0,Black,Yes,1319.0
+89,POCO,C40,4.0,64.0,Yellow,Yes,169.99
+90,Apple,iPhone 14,7.0,256.0,Gold,Yes,1599.0
+91,Xiaomi,Note 12S,8.0,256.0,Black,Yes,225.0
+92,Realme,GT2,12.0,256.0,White,Yes,601.6
+93,Apple,iPhone 14,7.0,256.0,Silver,Yes,1599.0
+94,Apple,iPhone 14,7.0,128.0,White,Yes,1009.0
+95,Nothing,Phone (2),12.0,512.0,Gray,Yes,799.0
+96,POCO,F5,12.0,256.0,Black,Yes,479.99
+97,Xiaomi,11 Pro,8.0,256.0,Blue,Yes,449.99
+98,Samsung,Galaxy M53,8.0,128.0,Blue,Yes,413.0
+99,Samsung,Galaxy M53,8.0,128.0,Green,Yes,418.99
+100,OPPO,Reno8,8.0,128.0,Orange,Yes,379.0
+101,Samsung,Galaxy A34,8.0,256.0,Black,Yes,469.0
+102,POCO,M4,6.0,128.0,Yellow,Yes,219.99
+103,Xiaomi,Redmi 12C,4.0,128.0,Blue,Yes,123.0
+104,Motorola,Moto G32,6.0,128.0,Gray,Yes,209.0
+105,Xiaomi,Redmi Note 12,8.0,256.0,White,Yes,389.95
+106,Apple,iPhone 12,7.0,128.0,Black,Yes,859.0
+107,Samsung,Galaxy M33,6.0,128.0,Brown,Yes,299.0
+108,Alcatel,1 (2021),1.0,16.0,Blue,Yes,70.98
+109,Alcatel,1 (2021),1.0,16.0,Black,Yes,70.98
+110,OPPO,Reno8,8.0,128.0,Black,Yes,379.0
+111,POCO,X5 Pro,6.0,128.0,Black,Yes,349.99
+112,Realme,GT Neo 3T,8.0,128.0,White,Yes,432.59
+113,Xiaomi,Redmi 12C,3.0,64.0,Green,Yes,169.0
+114,Apple,iPhone 11,7.0,64.0,Black,Yes,589.0
+115,Apple,iPhone 11,7.0,64.0,White,Yes,589.0
+116,Apple,iPhone 14,7.0,256.0,Purple,Yes,1289.0
+117,Samsung,Galaxy Z Flip4,8.0,256.0,Pink,No,1159.0
+118,Samsung,Galaxy M33,6.0,128.0,Green,Yes,299.0
+119,OPPO,A17,4.0,64.0,Black,Yes,179.0
+120,Samsung,Galaxy S22,10.0,256.0,Black,Yes,699.0
+121,Apple,iPhone 14,7.0,128.0,Purple,Yes,1009.0
+122,Xiaomi,Redmi 12C,4.0,128.0,Gray,Yes,199.0
+123,Apple,iPhone 14,7.0,128.0,Blue,Yes,1009.0
+124,Samsung,Galaxy M13,4.0,64.0,Blue,Yes,179.0
+125,Alcatel,1B 2022,2.0,32.0,Black,Yes,100.99
+126,Apple,iPhone 14,7.0,128.0,Gold,Yes,1319.0
+127,Samsung,Galaxy S23,12.0,512.0,Black,Yes,1589.01
+128,Samsung,Galaxy A54,8.0,128.0,Purple,Yes,452.61
+129,Apple,iPhone 14,7.0,256.0,Red,Yes,1289.0
+130,Xiaomi,Redmi 12C,4.0,128.0,Green,Yes,169.0
+131,POCO,M5s,4.0,128.0,Black,Yes,229.98
+132,Realme,8I,4.0,64.0,Black,Yes,201.6
+133,Xiaomi,12T,8.0,256.0,Blue,Yes,781.6
+134,Nothing,Phone (1),8.0,256.0,Black,Yes,499.0
+135,Apple,iPhone 14,7.0,512.0,Black,Yes,1709.0
+136,Apple,iPhone 14,7.0,256.0,Purple,Yes,1449.0
+137,Xiaomi,Redmi 12,4.0,128.0,Blue,Yes,144.95
+138,Apple,iPhone 12,7.0,64.0,White,Yes,809.0
+139,Vivo,Y22s,6.0,128.0,Blue,Yes,220.99
+140,Xiaomi,Redmi Note 12,8.0,256.0,Black,Yes,389.9
+141,Samsung,Galaxy S23,8.0,256.0,Black,Yes,1547.63
+142,Apple,iPhone 14,7.0,128.0,Blue,Yes,1159.0
+143,Samsung,Galaxy M23,4.0,128.0,Gold,Yes,279.0
+144,Samsung,Galaxy A33,6.0,128.0,Black,Yes,359.0
+145,Vivo,Y22s,6.0,128.0,Turquoise,Yes,220.99
+146,Xiaomi,13,8.0,128.0,Black,Yes,492.59
+147,Alcatel,1B 2022,2.0,32.0,Blue,Yes,100.99
+148,Apple,iPhone 13,7.0,128.0,White,Yes,909.0
+149,Samsung,Galaxy A34,6.0,128.0,Silver,Yes,300.0
+150,Samsung,Galaxy A34,8.0,256.0,Silver,Yes,469.0
+151,Vivo,Y35,8.0,256.0,Blue,Yes,267.99
+152,Vivo,X60 Pro,12.0,256.0,Black,Yes,799.0
+153,Motorola,Edge 40,8.0,256.0,Gold,Yes,491.64
+154,Nothing,Phone (1),12.0,256.0,Black,Yes,549.0
+155,Samsung,Galaxy A34,8.0,256.0,Purple,Yes,469.0
+156,ZTE,Blade A52,2.0,64.0,Blue,Yes,119.0
+157,Samsung,Galaxy A54,8.0,256.0,Purple,Yes,549.0
+158,Samsung,Galaxy S21,8.0,256.0,Gray,Yes,649.0
+159,Xiaomi,Redmi 10C,4.0,128.0,Gray,Yes,199.99
+160,Samsung,Galaxy A54,8.0,256.0,Purple,Yes,449.95
+161,Xiaomi,Redmi 12,4.0,128.0,Black,Yes,144.95
+162,Samsung,Galaxy A54,8.0,256.0,White,Yes,549.0
+163,OPPO,A78,8.0,128.0,Blue,Yes,299.0
+164,Samsung,Galaxy S23,12.0,512.0,Green,Yes,1589.01
+165,Xiaomi,Redmi Note 11,4.0,128.0,Blue,Yes,219.99
+166,Samsung,Galaxy A34,6.0,128.0,Green,Yes,399.0
+167,Apple,iPhone 14,7.0,256.0,Blue,Yes,1139.0
+168,Samsung,Galaxy A14,4.0,64.0,Black,Yes,189.0
+169,Samsung,Galaxy A23,4.0,128.0,Black,Yes,234.95
+170,Samsung,Galaxy A14,4.0,64.0,Silver,Yes,189.0
+171,Vivo,Y35,8.0,256.0,Gold,Yes,267.99
+172,Xiaomi,12,8.0,256.0,Blue,Yes,1026.41
+173,POCO,X5 Pro,6.0,128.0,Yellow,Yes,349.99
+174,Apple,iPhone 14,7.0,256.0,Black,Yes,1259.01
+175,Apple,iPhone 14,7.0,512.0,Silver,Yes,1709.0
+176,Apple,iPhone 14,7.0,512.0,Purple,Yes,1399.0
+177,Apple,iPhone 11,7.0,64.0,White,Yes,363.0
+178,Samsung,Galaxy S23,6.0,128.0,Black,Yes,829.01
+179,Samsung,Galaxy A54,8.0,256.0,Black,Yes,549.0
+180,Apple,iPhone 13,7.0,128.0,Pink,Yes,909.0
+181,Vivo,Y76,8.0,128.0,Blue,Yes,306.0
+182,Vivo,Y76,8.0,128.0,Black,Yes,306.0
+183,POCO,M5,4.0,128.0,Black,Yes,209.99
+184,POCO,C40,3.0,32.0,Yellow,Yes,149.99
+185,Realme,Narzo 50,4.0,128.0,Blue,Yes,222.59
+186,Apple,iPhone 13,7.0,256.0,Red,Yes,1029.0
+187,Xiaomi,12T,8.0,256.0,Black,Yes,772.46
+188,OPPO,A78,8.0,128.0,Black,Yes,299.0
+189,Samsung,Galaxy A54,8.0,256.0,Green,Yes,549.0
+190,Apple,iPhone 13,7.0,128.0,Black,Yes,909.0
+191,Apple,iPhone 12,7.0,256.0,Blue,Yes,669.0
+192,POCO,X5 Pro,6.0,128.0,Blue,Yes,349.99
+193,Samsung,Galaxy A54,8.0,256.0,Black,Yes,449.95
+194,Apple,iPhone 13,7.0,128.0,Blue,Yes,909.0
+195,Xiaomi,Redmi Note 12,8.0,128.0,Black,Yes,289.95
+196,Samsung,Galaxy A54,8.0,128.0,Green,Yes,379.95
+197,OPPO,A98,8.0,256.0,Black,Yes,386.6
+198,Xiaomi,Redmi Note 12,4.0,64.0,Gray,Yes,229.99
+199,Xiaomi,12,8.0,256.0,Gray,Yes,500.0
+200,Apple,iPhone XR,7.0,64.0,Black,Yes,269.0
+201,Apple,iPhone 13,7.0,256.0,Pink,Yes,1029.0
+202,ZTE,Blade A52,2.0,64.0,Gray,Yes,119.0
+203,Apple,iPhone 14,7.0,512.0,Blue,Yes,1399.0
+204,Vivo,Y16,4.0,128.0,Black,Yes,182.99
+205,Samsung,Galaxy S22,10.0,256.0,Green,Yes,699.0
+206,Vivo,Y16,4.0,128.0,Gold,Yes,178.0
+207,Apple,iPhone 12,7.0,256.0,Silver,Yes,709.0
+208,POCO,X5,8.0,256.0,Black,Yes,349.99
+209,Xiaomi,Redmi 10,4.0,128.0,Gray,Yes,295.82
+210,Motorola,Razr 40,8.0,256.0,Gold,Yes,899.01
+211,Xiaomi,Redmi 9A,2.0,32.0,Gray,Yes,119.99
+212,Samsung,Galaxy A54,8.0,128.0,White,Yes,379.95
+213,ZTE,Blade A72,3.0,64.0,Gray,Yes,149.0
+214,Xiaomi,Redmi Note 11,6.0,128.0,Gray,Yes,206.99
+215,Realme,GT2,12.0,256.0,Black,Yes,601.6
+216,Samsung,Galaxy S23,8.0,256.0,White,Yes,819.94
+217,Samsung,Galaxy S23,8.0,256.0,White,Yes,1052.0
+218,OnePlus,Nord CE 3,8.0,128.0,Green,Yes,259.0
+219,Samsung,Galaxy S23,12.0,512.0,Black,Yes,1177.0
+220,Samsung,Galaxy S23,12.0,512.0,White,Yes,1589.01
+221,Samsung,Galaxy A14,4.0,64.0,Green,Yes,189.0
+222,Apple,iPhone 14,7.0,256.0,Black,Yes,1139.0
+223,OPPO,A57s,4.0,128.0,Blue,Yes,158.95
+224,TCL,20 R,4.0,64.0,Blue,Yes,143.28
+225,OPPO,A98,8.0,256.0,Blue,Yes,401.6
+226,Apple,iPhone 14,7.0,512.0,Blue,Yes,1549.0
+227,Xiaomi,Redmi Note 12,6.0,128.0,Blue,Yes,229.95
+228,OPPO,X5,8.0,256.0,Black,Yes,305.0
+229,Xiaomi,13,8.0,256.0,Black,Yes,430.0
+230,Samsung,Galaxy Z Flip4,8.0,256.0,Gray,No,1159.0
+231,CAT,S42H+,3.0,32.0,Black,Yes,189.99
+232,Apple,iPhone 14,7.0,256.0,White,Yes,1139.0
+233,Samsung,Galaxy A53,6.0,128.0,Black,Yes,399.0
+235,POCO,X5,6.0,128.0,Black,Yes,299.99
+236,Nothing,Phone (1),12.0,256.0,White,Yes,549.0
+237,Vivo,Y76,8.0,256.0,Black,Yes,309.0
+238,Vivo,V21 5G,8.0,128.0,Blue,Yes,290.48
+239,POCO,M5,4.0,64.0,Black,Yes,189.99
+240,Samsung,Galaxy S23,8.0,256.0,Black,Yes,1172.82
+241,Samsung,Galaxy S23,12.0,512.0,White,Yes,1138.46
+242,Vivo,V21 5G,8.0,128.0,Yellow,Yes,290.48
+243,Xiaomi,Note 12S,8.0,256.0,Green,Yes,249.79
+244,Vivo,Y76,8.0,256.0,Blue,Yes,309.0
+245,Xiaomi,Note 12S,8.0,256.0,Blue,Yes,234.95
+246,Apple,iPhone 14,7.0,512.0,Gold,Yes,1709.0
+247,Xiaomi,13,8.0,256.0,Black,Yes,1084.97
+248,Apple,iPhone 14,7.0,128.0,Red,Yes,1159.0
+249,Apple,iPhone 11,7.0,64.0,Black,Yes,735.2
+250,SPC,Smart Ultimate,3.0,32.0,Black,Yes,109.95
+251,POCO,X5 Pro,8.0,256.0,Black,Yes,399.99
+252,Samsung,Galaxy S23,6.0,128.0,Purple,Yes,829.01
+253,Motorola,Edge 40,12.0,256.0,Gold,Yes,859.0
+254,Samsung,Galaxy S23,8.0,256.0,Green,Yes,1409.0
+255,OnePlus,Nord CE 2,6.0,128.0,Black,Yes,361.71
+256,Cubot,KingKong Power,8.0,256.0,Black,Yes,229.95
+257,Xiaomi,Redmi 12C,4.0,128.0,Blue,Yes,199.0
+258,Xiaomi,Redmi 9C,3.0,64.0,Gray,Yes,101.14
+259,OPPO,Reno10,8.0,256.0,Blue,Yes,499.0
+260,Samsung,Galaxy A34,6.0,128.0,Purple,Yes,399.0
+261,Samsung,Galaxy M13,4.0,128.0,Green,Yes,209.0
+262,Samsung,Galaxy A14,4.0,128.0,Black,Yes,177.0
+263,Apple,iPhone 8,7.0,64.0,Gray,Yes,144.0
+264,OPPO,Reno8,8.0,128.0,Rainbow,Yes,309.0
+265,TCL,408,4.0,64.0,Gray,Yes,150.99
+266,Samsung,Galaxy A14,4.0,64.0,Black,Yes,156.01
+267,Xiaomi,Redmi 12C,4.0,128.0,Green,Yes,199.0
+268,Samsung,Galaxy A34,6.0,128.0,Black,Yes,399.0
+269,TCL,40 SE,6.0,256.0,Purple,Yes,200.99
+270,Apple,iPhone 12,7.0,128.0,Blue,Yes,635.0
+271,TCL,403,2.0,32.0,Purple,Yes,92.7
+272,Apple,iPhone 14,7.0,256.0,Red,Yes,1119.01
+273,OPPO,Reno10,8.0,256.0,Gray,Yes,499.0
+274,Samsung,Galaxy A14,4.0,128.0,Black,Yes,209.0
+275,Samsung,Galaxy S23,12.0,512.0,Green,Yes,1126.89
+276,Xiaomi,Note 12S,6.0,128.0,Black,Yes,209.0
+277,Apple,iPhone XS,7.0,64.0,Gray,Yes,269.0
+278,Apple,iPhone 12,7.0,128.0,White,Yes,859.0
+279,Samsung,Galaxy A34,6.0,128.0,Silver,Yes,399.0
+280,Apple,iPhone 14,7.0,128.0,Purple,Yes,1159.0
+281,Samsung,Galaxy S22,12.0,256.0,White,Yes,954.0
+282,Apple,iPhone 13,7.0,256.0,White,Yes,1029.01
+283,Xiaomi,Redmi Note 12,6.0,128.0,Gray,Yes,229.95
+284,Motorola,Edge 30,8.0,128.0,Black,Yes,599.0
+285,Apple,iPhone 13,7.0,512.0,Red,Yes,1259.0
+286,OPPO,A74,6.0,128.0,Black,Yes,319.0
+287,Samsung,Galaxy A34,6.0,128.0,Black,Yes,300.0
+288,Xiaomi,11T Pro,8.0,256.0,Gray,Yes,450.0
+289,Google,Pixel 6A,6.0,128.0,Black,Yes,419.0
+290,ZTE,Blade A72,3.0,64.0,Blue,Yes,149.0
+291,Apple,iPhone 13,7.0,128.0,Blue,Yes,1159.0
+292,OPPO,X5,8.0,256.0,Black,Yes,999.0
+293,OPPO,A57s,4.0,128.0,Black,Yes,199.0
+294,Samsung,Galaxy S23,8.0,256.0,Green,Yes,959.0
+295,Apple,iPhone 14,7.0,256.0,White,Yes,1289.0
+296,Realme,GT Neo 3T,8.0,128.0,Black,Yes,432.59
+297,Xiaomi,Redmi Note 12,4.0,128.0,Gray,Yes,209.9
+298,Samsung,Galaxy A54,8.0,128.0,Purple,Yes,499.0
+299,Samsung,Galaxy A14,4.0,128.0,Silver,Yes,209.0
+300,Apple,iPhone 11,7.0,128.0,Black,Yes,429.01
+301,Xiaomi,Redmi Note 12,6.0,128.0,Gray,Yes,287.21
+302,Samsung,Galaxy A32,4.0,64.0,Black,Yes,200.71
+303,Apple,iPhone 11,7.0,128.0,Red,Yes,429.01
+304,Xiaomi,Redmi Note 12,6.0,128.0,White,Yes,379.99
+305,Apple,iPhone 14,7.0,512.0,Black,Yes,1549.0
+306,Realme,Narzo 50,4.0,128.0,Black,Yes,222.59
+307,Samsung,Galaxy S23,12.0,512.0,Green,Yes,1191.0
+308,OPPO,A17,4.0,64.0,Blue,Yes,179.0
+309,Apple,iPhone XR,7.0,128.0,Black,Yes,330.0
+310,Samsung,Galaxy A34,8.0,256.0,Black,Yes,342.99
+311,Apple,iPhone 14,7.0,128.0,Red,Yes,1009.0
+312,Apple,iPhone 14,7.0,128.0,White,Yes,1159.0
+313,Samsung,Galaxy M13,4.0,128.0,Blue,Yes,209.0
+314,Xiaomi,Redmi 12,4.0,128.0,Silver,Yes,144.95
+315,Apple,iPhone 14,7.0,512.0,Silver,Yes,1859.0
+316,Google,Pixel 7,8.0,128.0,Green,Yes,580.0
+317,Samsung,Galaxy S23,8.0,256.0,Black,Yes,1043.63
+318,Apple,iPhone 12,7.0,128.0,Blue,Yes,859.0
+319,Apple,iPhone 13,7.0,128.0,Red,Yes,909.0
+320,Xiaomi,Redmi 9AT,2.0,32.0,Green,Yes,93.41
+321,Motorola,Edge 40,8.0,256.0,Pink,Yes,569.0
+322,Apple,iPhone 14,7.0,128.0,Silver,Yes,1469.0
+323,OPPO,X5,8.0,256.0,Blue,Yes,306.0
+324,Apple,iPhone 14,7.0,256.0,Purple,Yes,1139.0
+325,Samsung,Galaxy S23,6.0,128.0,Green,Yes,829.01
+326,Apple,iPhone 14,7.0,256.0,Blue,Yes,1289.0
+327,Xiaomi,Shark 5,8.0,128.0,White,Yes,839.0
+328,Motorola,Moto G23,8.0,128.0,White,Yes,229.0
+329,Samsung,Galaxy A14,4.0,128.0,Green,Yes,179.95
+330,Apple,iPhone SE,7.0,128.0,White,Yes,621.6
+331,POCO,X5,6.0,128.0,Green,Yes,299.99
+332,Samsung,Galaxy S23,8.0,256.0,Purple,Yes,959.0
+333,Samsung,Galaxy A14,4.0,128.0,Silver,Yes,179.95
+334,Apple,iPhone 12,7.0,128.0,Red,Yes,859.0
+335,POCO,F5,12.0,256.0,Black,Yes,629.99
+336,Samsung,Galaxy S23,6.0,128.0,White,Yes,694.9
+337,Realme,Narzo 50i,3.0,32.0,Green,Yes,141.6
+338,Apple,iPhone 14,7.0,512.0,Red,Yes,1399.0
+339,Samsung,Galaxy S23,8.0,256.0,Black,Yes,1409.0
+340,Apple,iPhone 13,7.0,128.0,Pink,Yes,809.0
+341,Motorola,Razr 40,8.0,256.0,Gold,Yes,1199.0
+342,Xiaomi,Redmi Note 12,6.0,128.0,Blue,Yes,288.32
+343,OPPO,A78,4.0,128.0,Black,Yes,189.0
+344,Samsung,Galaxy A54,8.0,128.0,White,Yes,499.0
+345,Samsung,Galaxy A34,8.0,256.0,Green,Yes,349.94
+346,TCL,305i,2.0,64.0,Blue,Yes,121.99
+347,TCL,40 SE,4.0,128.0,Purple,Yes,163.59
+349,TCL,408,4.0,64.0,Blue,Yes,150.99
+350,Apple,iPhone 11,7.0,64.0,Red,Yes,348.0
+351,POCO,F4,6.0,128.0,Black,Yes,399.99
+352,Apple,11 Pro,7.0,64.0,Gold,Yes,419.0
+353,Xiaomi,Redmi Note 12,6.0,128.0,White,Yes,229.95
+354,POCO,X5 Pro,8.0,256.0,Yellow,Yes,399.99
+355,Xiaomi,Redmi Note 12,4.0,64.0,Blue,Yes,229.99
+356,Samsung,Galaxy S23,12.0,512.0,Purple,Yes,1589.01
+357,Xiaomi,Redmi Note 11,6.0,128.0,Blue,Yes,199.0
+358,Xiaomi,Redmi Note 12,6.0,128.0,Green,Yes,293.46
+359,Apple,iPhone 12,7.0,256.0,Blue,Yes,979.0
+360,TCL,40 SE,4.0,128.0,Gray,Yes,163.59
+361,OPPO,Reno10,12.0,256.0,Purple,Yes,649.0
+362,Samsung,Galaxy A23,4.0,128.0,Blue,Yes,230.95
+363,Apple,iPhone 12,7.0,128.0,Green,Yes,859.0
+364,Apple,iPhone 12,7.0,256.0,Red,Yes,979.0
+365,Samsung,Galaxy A34,6.0,128.0,Purple,Yes,309.95
+366,OPPO,Reno10,12.0,256.0,Gray,Yes,649.01
+367,POCO,X5 Pro,8.0,256.0,Blue,Yes,319.98
+368,OPPO,Reno8,8.0,128.0,Black,Yes,429.0
+369,OPPO,X5 Pro,12.0,256.0,White,Yes,1299.0
+370,TCL,40 SE,6.0,256.0,Gray,Yes,200.99
+371,Samsung,Galaxy S23,8.0,256.0,White,Yes,1409.0
+372,ZTE,Blade V40 Vita,4.0,128.0,Black,Yes,179.0
+373,Samsung,Galaxy S23,12.0,512.0,Black,Yes,1126.89
+374,Samsung,Galaxy S20,6.0,128.0,Blue,Yes,499.0
+375,Apple,iPhone 12,7.0,64.0,Blue,Yes,809.0
+376,Xiaomi,Redmi A2,2.0,32.0,Green,Yes,77.98
+377,Xiaomi,Redmi 9C,3.0,64.0,Gray,Yes,101.07
+378,Apple,iPhone 14,7.0,128.0,Black,Yes,1159.0
+379,Samsung,Galaxy A04s,3.0,32.0,Black,Yes,129.0
+380,TCL,405,2.0,32.0,Blue,Yes,120.99
+381,Apple,iPhone 14,7.0,512.0,Red,Yes,1549.0
+382,Apple,iPhone 14,7.0,512.0,Gold,Yes,1859.0
+383,Apple,iPhone 12,7.0,256.0,Black,Yes,678.0
+384,Samsung,Galaxy A52s,6.0,128.0,Black,Yes,380.0
+385,Apple,iPhone 13,7.0,512.0,Green,Yes,1159.0
+386,Samsung,Galaxy S22,12.0,256.0,Black,Yes,1647.19
+387,Xiaomi,Redmi 12C,3.0,64.0,Gray,Yes,149.89
+388,POCO,X5,6.0,128.0,Blue,Yes,299.99
+389,Apple,iPhone 12,7.0,128.0,Purple,Yes,859.0
+390,OPPO,A57s,4.0,128.0,Black,Yes,202.59
+391,Samsung,Galaxy S23,12.0,512.0,Purple,Yes,1333.0
+392,Apple,iPhone 12,7.0,128.0,Silver,Yes,625.0
+393,Samsung,Galaxy S23,8.0,256.0,Purple,Yes,1409.0
+394,Xiaomi,Redmi 10C,3.0,64.0,Gray,Yes,105.04
+395,Apple,iPhone X,7.0,256.0,Gray,Yes,299.0
+396,POCO,M5,4.0,64.0,Yellow,Yes,189.99
+397,Apple,iPhone 12,7.0,128.0,Gold,Yes,614.99
+398,Apple,iPhone 14,7.0,128.0,Yellow,Yes,1009.0
+399,Xiaomi,Redmi 10,4.0,128.0,Gray,Yes,169.94
+400,Xiaomi,12T,12.0,256.0,Blue,Yes,849.99
+401,Xiaomi,11 Pro,6.0,64.0,White,Yes,299.99
+402,TCL,403,2.0,2.0,Black,No,92.71
+403,Apple,iPhone 12,7.0,64.0,Green,Yes,809.0
+404,Samsung,Galaxy S22,12.0,256.0,Green,No,920.0
+405,Samsung,Galaxy S21,7.0,256.0,Black,Yes,378.0
+406,Samsung,Galaxy A54,8.0,128.0,Green,Yes,499.0
+407,Samsung,Galaxy S22,8.0,128.0,Black,Yes,569.9
+408,Apple,iPhone 12,7.0,128.0,Silver,Yes,694.0
+409,Apple,iPhone 12,7.0,128.0,Blue,Yes,739.0
+410,Samsung,Galaxy S23,8.0,256.0,Green,Yes,1209.0
+411,Samsung,Galaxy S23,12.0,512.0,White,Yes,1249.0
+412,Apple,iPhone 13,7.0,256.0,Black,Yes,1029.0
+413,Realme,GT2,8.0,128.0,Black,Yes,752.59
+414,Samsung,Galaxy Z Fold4,12.0,256.0,Black,Yes,1160.0
+415,Xiaomi,Redmi Note 11S,6.0,128.0,Blue,Yes,249.9
+416,Xiaomi,12,12.0,256.0,Blue,No,1451.0
+417,POCO,M5,4.0,128.0,Green,Yes,209.99
+418,Samsung,Galaxy S23,6.0,128.0,Black,Yes,1026.41
+419,Xiaomi,Redmi 10A,3.0,64.0,Gray,Yes,103.16
+420,Apple,iPhone 13,7.0,128.0,Green,Yes,809.0
+421,Apple,11 Pro,7.0,64.0,Green,Yes,417.99
+422,Cubot,KingKong 9,12.0,256.0,Black,Yes,299.0
+423,ZTE,Blade V40 Vita,4.0,128.0,Green,Yes,179.0
+424,Samsung,Galaxy S21,7.0,128.0,Black,Yes,730.01
+425,POCO,X5,8.0,256.0,Green,Yes,349.99
+426,TCL,30 SE,4.0,128.0,Blue,Yes,174.99
+427,Apple,iPhone 12,7.0,256.0,Blue,Yes,687.99
+428,Xiaomi,Note 12S,6.0,128.0,Green,Yes,278.7
+429,Xiaomi,Redmi Note 10,6.0,128.0,Blue,Yes,329.99
+430,Apple,iPhone 13,7.0,128.0,Gold,Yes,1259.0
+431,Apple,11 Pro,7.0,64.0,Silver,Yes,439.0
+432,TCL,30,4.0,64.0,Black,Yes,184.99
+433,Samsung,Galaxy A54,8.0,256.0,White,Yes,448.99
+434,Samsung,Galaxy S23,12.0,512.0,Black,Yes,1249.0
+435,Samsung,Galaxy A54,8.0,256.0,Green,Yes,449.95
+436,TCL,305i,2.0,64.0,Black,Yes,121.99
+437,POCO,M5s,4.0,128.0,White,Yes,229.98
+438,Xiaomi,Redmi 9A,2.0,32.0,Green,Yes,119.99
+439,Samsung,Galaxy S20,6.0,128.0,Blue,Yes,649.0
+440,Samsung,Galaxy S23,8.0,256.0,White,Yes,959.0
+441,Samsung,Galaxy S22,8.0,128.0,Red,Yes,866.0
+442,Xiaomi,Redmi 10A,3.0,64.0,Blue,Yes,107.9
+443,POCO,C40,3.0,32.0,Green,Yes,149.99
+444,Samsung,Galaxy Note 20,12.0,256.0,Bronze,Yes,909.0
+445,Xiaomi,Redmi 12C,3.0,64.0,Blue,Yes,119.0
+446,Xiaomi,Redmi Go,4.0,16.0,Black,Yes,126.24
+447,Ulefone,Armor X10,4.0,64.0,Black,Yes,179.99
+448,POCO,X5,8.0,256.0,Blue,Yes,343.99
+449,Apple,iPhone 14,7.0,512.0,Purple,Yes,1549.0
+450,TCL,30,4.0,64.0,Blue,Yes,184.99
+451,Apple,iPhone 14,7.0,512.0,White,Yes,1519.0
+452,Samsung,Galaxy S23,8.0,256.0,White,Yes,1209.0
+453,Samsung,Galaxy A14,4.0,64.0,Green,Yes,159.95
+454,Realme,GT Master Edition,6.0,128.0,White,Yes,351.6
+455,Samsung,Galaxy A20e,3.0,32.0,Black,Yes,105.0
+456,Samsung,Galaxy A34,8.0,256.0,Silver,Yes,349.94
+457,TCL,30E,3.0,64.0,Gray,Yes,149.99
+458,Motorola,Razr 40,8.0,256.0,Pink,Yes,1199.0
+459,Samsung,Galaxy S22,10.0,256.0,Pink,Yes,699.0
+460,Xiaomi,Shark 5,12.0,256.0,Black,Yes,573.03
+461,Samsung,Galaxy S23,12.0,512.0,Purple,Yes,954.0
+462,Apple,iPhone XR,7.0,64.0,Red,Yes,269.0
+463,Motorola,Edge 30,8.0,128.0,Black,Yes,399.0
+464,Samsung,Galaxy S23,6.0,128.0,White,Yes,829.01
+466,Apple,iPhone XR,7.0,64.0,White,Yes,270.0
+467,OPPO,Reno8,8.0,128.0,Black,Yes,479.49
+468,OPPO,A54,4.0,64.0,Purple,Yes,269.0
+469,Samsung,Galaxy Note 10,6.0,256.0,Purple,Yes,810.78
+470,Xiaomi,Redmi Note 12,8.0,128.0,Black,Yes,399.0
+471,ZTE,Blade A31,2.0,32.0,Blue,Yes,69.37
+472,Samsung,Galaxy S23,6.0,128.0,Purple,Yes,699.95
+473,POCO,X5,8.0,256.0,Blue,Yes,327.0
+474,Samsung,Galaxy S23,8.0,256.0,White,Yes,1430.5
+475,TCL,405,2.0,32.0,Gray,Yes,120.99
+476,Xiaomi,X3,6.0,128.0,Bronze,Yes,354.38
+477,Samsung,Galaxy Z Fold4,12.0,512.0,Black,Yes,1919.0
+478,Samsung,Galaxy S21,7.0,256.0,Black,Yes,499.0
+479,OPPO,Reno6,8.0,128.0,Black,Yes,499.0
+480,Apple,iPhone 13,7.0,128.0,Blue,Yes,809.0
+481,Apple,iPhone XR,7.0,128.0,Red,Yes,327.99
+482,POCO,F5,8.0,256.0,Blue,Yes,429.01
+483,OPPO,X3,12.0,256.0,Black,Yes,1169.0
+484,Samsung,Galaxy S22,8.0,128.0,Black,Yes,889.99
+485,Apple,iPhone 14,7.0,512.0,Purple,Yes,1859.0
+486,Apple,iPhone 13,7.0,128.0,Green,Yes,909.0
+487,Xiaomi,Redmi 10A,3.0,64.0,Silver,Yes,159.0
+488,Samsung,Galaxy A32,4.0,128.0,Black,Yes,324.99
+489,Realme,9,4.0,128.0,Black,Yes,282.58
+490,Apple,iPhone 12,7.0,256.0,Red,Yes,859.0
+491,Google,Pixel 7,8.0,128.0,White,Yes,654.0
+492,Apple,iPhone 13,7.0,256.0,Blue,Yes,1029.0
+493,Samsung,Galaxy S23,8.0,256.0,Purple,Yes,893.0
+494,Xiaomi,Redmi Note 12,6.0,128.0,Black,Yes,379.99
+495,Samsung,Galaxy A34,6.0,128.0,Green,Yes,299.9
+496,Apple,iPhone 12,7.0,256.0,Purple,Yes,979.0
+497,OnePlus,Nord N10,6.0,128.0,Blue,Yes,219.0
+498,Apple,iPhone 12,7.0,64.0,Blue,Yes,689.0
+499,Apple,iPhone 7,7.0,32.0,Black,Yes,199.0
+500,Xiaomi,Redmi Note 12,8.0,128.0,Blue,Yes,299.95
+501,Xiaomi,13,8.0,256.0,Green,Yes,825.4
+502,Xiaomi,Redmi 10C,3.0,64.0,Green,Yes,107.94
+503,OPPO,Reno4,12.0,256.0,Blue,Yes,229.0
+504,Apple,iPhone 12,7.0,64.0,Red,Yes,809.0
+505,Apple,iPhone 14,7.0,128.0,Yellow,Yes,1159.0
+506,Apple,iPhone X,7.0,64.0,Silver,Yes,259.0
+507,Samsung,Galaxy S20,12.0,128.0,Black,Yes,1164.79
+508,Xiaomi,Redmi 10A,3.0,64.0,Silver,Yes,122.27
+509,CAT,S62,6.0,128.0,Black,Yes,588.99
+510,Samsung,Galaxy A34,8.0,256.0,Purple,Yes,349.94
+511,Xiaomi,11T Pro,8.0,256.0,Blue,Yes,623.0
+512,SPC,Jasper 2,3.0,32.0,Black,No,95.0
+513,Apple,iPhone 11,7.0,64.0,Green,Yes,368.0
+514,Realme,9i,4.0,128.0,Blue,Yes,252.59
+515,POCO,M5s,4.0,64.0,Black,Yes,210.0
+516,Apple,iPhone 12,7.0,128.0,Blue,Yes,922.58
+517,Xiaomi,11T,8.0,128.0,Blue,Yes,399.0
+518,Samsung,Galaxy S21,7.0,128.0,Purple,Yes,1128.89
+519,Xiaomi,Shark 4,12.0,256.0,Black,Yes,420.52
+520,Samsung,Galaxy A14,4.0,128.0,Green,Yes,281.18
+521,Samsung,Galaxy S10,8.0,128.0,Black,Yes,520.15
+522,Samsung,Galaxy S23,8.0,256.0,Purple,Yes,1199.0
+523,Nokia,G21,4.0,128.0,Blue,Yes,196.63
+524,Apple,iPhone 13,7.0,256.0,Black,Yes,1379.0
+525,Xiaomi,Redmi Note 11,4.0,64.0,Gray,Yes,189.99
+526,Apple,iPhone 12,7.0,256.0,Black,Yes,706.0
+527,Apple,iPhone 13,7.0,256.0,Gold,Yes,1379.0
+528,Apple,iPhone 13,7.0,256.0,Blue,Yes,1379.0
+529,Xiaomi,Redmi 10C,4.0,128.0,Green,Yes,158.99
+530,Apple,iPhone 13,7.0,256.0,Green,Yes,1029.0
+531,POCO,F5,8.0,256.0,White,Yes,439.0
+532,Samsung,Galaxy A54,8.0,128.0,Black,Yes,393.06
+533,Samsung,Galaxy S21,6.0,128.0,Green,Yes,749.0
+534,Apple,iPhone 14,7.0,512.0,White,Yes,1359.0
+535,Apple,iPhone SE,7.0,256.0,Red,Yes,731.6
+536,Xiaomi,Redmi A2,2.0,32.0,Blue,Yes,79.99
+537,Apple,iPhone 13,7.0,512.0,Pink,Yes,1239.0
+538,Apple,iPhone 14,7.0,1000.0,Silver,Yes,1969.0
+539,Apple,11 Pro,7.0,256.0,Green,Yes,589.0
+540,OPPO,A17,4.0,64.0,Black,Yes,138.99
+541,Samsung,Galaxy Z Fold4,12.0,256.0,White,Yes,1493.29
+542,Apple,iPhone 11,7.0,64.0,Purple,Yes,368.0
+543,Xiaomi,13,12.0,256.0,Black,Yes,1310.08
+544,POCO,F5,12.0,256.0,White,Yes,479.99
+545,Apple,iPhone 13,7.0,128.0,Red,Yes,809.0
+546,Apple,iPhone XS,7.0,256.0,Silver,Yes,389.0
+547,Samsung,Galaxy S22,8.0,128.0,White,Yes,844.0
+548,Xiaomi,Mi 11,8.0,128.0,Gray,Yes,302.29
+549,Xiaomi,Redmi Note 10,4.0,64.0,Blue,Yes,201.47
+550,Samsung,Galaxy S21,7.0,128.0,Black,Yes,759.0
+551,Apple,iPhone 12,7.0,64.0,Red,Yes,689.0
+552,Samsung,Galaxy Z Flip3,8.0,256.0,Black,Yes,621.56
+553,Apple,iPhone 14,7.0,1000.0,Gold,Yes,1969.0
+554,Honor,Magic 4,6.0,128.0,Blue,Yes,219.95
+555,OPPO,Reno8,8.0,256.0,Black,Yes,521.61
+556,Realme,8I,4.0,128.0,Black,Yes,221.6
+557,Apple,iPhone 13,7.0,128.0,Black,Yes,809.0
+558,Xiaomi,11 Lite,8.0,128.0,Pink,Yes,422.24
+559,Apple,iPhone 13,7.0,128.0,Silver,Yes,1259.0
+560,Samsung,Galaxy M13,4.0,64.0,Orange,Yes,179.0
+561,Xiaomi,11 Pro,6.0,128.0,Blue,Yes,415.51
+563,Realme,GT2,12.0,256.0,Black,Yes,852.59
+564,Samsung,Galaxy A13,4.0,64.0,Blue,Yes,228.69
+565,Samsung,Galaxy S9,8.0,128.0,Black,Yes,410.04
+566,POCO,F5,8.0,256.0,Black,Yes,429.01
+567,Samsung,Galaxy S23,8.0,256.0,Purple,Yes,790.0
+568,Xiaomi,12,12.0,256.0,Gray,Yes,780.85
+569,Apple,iPhone SE,7.0,256.0,White,Yes,701.61
+570,Samsung,Galaxy S23,8.0,256.0,Purple,Yes,1209.0
+571,OPPO,A57s,4.0,128.0,Blue,Yes,202.59
+572,Realme,8,4.0,64.0,Silver,Yes,202.59
+573,Xiaomi,11 Pro,8.0,128.0,Gray,Yes,379.0
+574,Motorola,Moto E22,4.0,64.0,Black,Yes,143.93
+575,Samsung,Galaxy A14,4.0,64.0,Silver,Yes,159.95
+576,OPPO,A96,8.0,128.0,Black,Yes,199.0
+577,Samsung,Galaxy Z Flip4,8.0,128.0,Gray,No,1099.0
+578,Samsung,Galaxy S23,12.0,512.0,Green,Yes,1249.0
+579,Apple,iPhone 8,7.0,256.0,Gray,Yes,189.99
+580,Apple,iPhone 12,7.0,128.0,Gold,Yes,694.0
+581,Apple,iPhone 12,7.0,64.0,Black,Yes,809.0
+582,Apple,iPhone 13,7.0,256.0,Blue,Yes,929.0
+583,Apple,iPhone 13,7.0,128.0,Gold,Yes,1159.0
+584,Xiaomi,Redmi 10,4.0,128.0,Blue,Yes,199.99
+585,Xiaomi,Shark 5,8.0,128.0,Black,Yes,819.0
+586,Apple,iPhone 13,7.0,512.0,Pink,Yes,1159.0
+587,TCL,30,4.0,128.0,Blue,Yes,204.99
+588,Xiaomi,Mi 9,6.0,64.0,Blue,Yes,306.59
+589,Apple,iPhone 13,7.0,512.0,Blue,Yes,1239.0
+590,OPPO,A54s,4.0,128.0,Black,Yes,184.0
+591,OPPO,X3,8.0,128.0,Black,Yes,469.0
+592,OPPO,A77,4.0,64.0,Black,Yes,442.23
+593,Xiaomi,Redmi 9C,4.0,128.0,Gray,Yes,129.95
+594,OPPO,X5 Pro,12.0,256.0,Black,Yes,1299.0
+595,Xiaomi,Mi 11i,8.0,256.0,Black,Yes,234.0
+596,Xiaomi,Redmi Note 12,6.0,128.0,Blue,Yes,379.99
+597,Apple,11 Pro,7.0,256.0,Gray,Yes,589.0
+598,Apple,iPhone XS,7.0,256.0,Gray,Yes,388.0
+599,Huawei,P30,8.0,128.0,Black,Yes,849.58
+600,Cubot,P80,8.0,256.0,Purple,Yes,229.0
+601,Samsung,Galaxy Note 10,6.0,256.0,White,Yes,810.78
+602,Samsung,Galaxy A50,4.0,128.0,Black,Yes,249.01
+603,ZTE,Blade A31,2.0,32.0,Gray,Yes,60.46
+604,ZTE,Blade A52,2.0,32.0,Gray,Yes,109.0
+605,Ulefone,Armor X9,4.0,64.0,Red,Yes,169.99
+606,Xiaomi,Redmi Note 11,4.0,64.0,Blue,Yes,189.99
+607,OPPO,Reno6,12.0,256.0,Blue,Yes,799.0
+608,Cubot,P80,8.0,256.0,Blue,Yes,229.0
+609,Xiaomi,Redmi 10,4.0,64.0,Blue,Yes,156.53
+610,Xiaomi,Redmi Note 10,8.0,128.0,Blue,Yes,349.0
+611,Apple,iPhone 12,7.0,128.0,Black,Yes,739.0
+612,Google,Pixel 6A,6.0,128.0,Green,Yes,425.0
+613,OPPO,A54,4.0,64.0,Black,Yes,269.0
+614,Apple,iPhone 13,7.0,512.0,Green,Yes,1259.0
+615,Apple,iPhone 14,7.0,512.0,Purple,Yes,1709.0
+616,OPPO,A16s,4.0,64.0,Black,Yes,189.0
+617,Samsung,Galaxy A13,3.0,32.0,Blue,Yes,146.0
+618,Samsung,Galaxy A53,6.0,128.0,Orange,Yes,390.0
+619,Xiaomi,12,8.0,128.0,Green,Yes,363.04
+620,Apple,iPhone 12,7.0,128.0,White,Yes,739.0
+621,OPPO,X5,8.0,256.0,White,Yes,999.0
+622,Xiaomi,Redmi 12C,3.0,32.0,Green,Yes,149.99
+623,Xiaomi,11 Pro,6.0,128.0,Blue,Yes,349.99
+624,Apple,11 Pro,7.0,256.0,Silver,Yes,589.0
+625,Samsung,Galaxy Note 10,6.0,128.0,Black,No,219.0
+626,Xiaomi,Redmi Note 9T,4.0,128.0,Black,Yes,359.98
+627,Apple,11 Pro,7.0,64.0,Gray,Yes,413.0
+628,Xiaomi,11T,8.0,128.0,Gray,Yes,448.99
+629,Xiaomi,Mi 8,6.0,4.0,Black,Yes,194.87
+630,Apple,11 Pro,7.0,64.0,Gray,Yes,487.0
+631,Apple,iPhone X,7.0,64.0,Gray,Yes,269.0
+632,Realme,GT Neo 2,12.0,256.0,Black,Yes,553.95
+633,Samsung,Galaxy A13,4.0,128.0,Black,Yes,199.0
+634,Cubot,P80,8.0,256.0,Black,Yes,229.0
+635,Samsung,Galaxy A33,6.0,128.0,Blue,Yes,359.0
+636,Xiaomi,Redmi 10,4.0,128.0,Green,Yes,179.95
+637,Xiaomi,Redmi 9A,2.0,32.0,Green,Yes,85.99
+638,Samsung,Galaxy A41,4.0,64.0,Black,Yes,140.0
+639,Samsung,Galaxy S10,8.0,128.0,Green,Yes,214.0
+640,Apple,iPhone 11,7.0,64.0,Purple,Yes,589.0
+641,POCO,F5,8.0,256.0,Black,Yes,579.99
+642,Motorola,Moto G52,6.0,128.0,Gold,Yes,188.31
+643,Apple,iPhone 13,7.0,512.0,Green,Yes,1609.0
+644,Apple,iPhone XR,7.0,64.0,Yellow,Yes,269.0
+645,Samsung,Galaxy Z Fold4,12.0,256.0,White,Yes,1799.0
+646,Apple,iPhone 12,7.0,128.0,Red,Yes,739.0
+647,Cubot,X70,12.0,256.0,Black,Yes,249.95
+648,OPPO,A74,6.0,128.0,Silver,Yes,319.0
+649,Samsung,Galaxy S23,8.0,1000.0,Black,Yes,1410.0
+650,Apple,iPhone 12,7.0,64.0,Purple,Yes,799.0
+651,Xiaomi,13,8.0,256.0,White,Yes,982.29
+652,Xiaomi,PocoPhone F3,8.0,256.0,White,Yes,369.0
+653,Apple,iPhone 13,7.0,256.0,Pink,Yes,929.0
+654,OPPO,X5,8.0,256.0,Black,Yes,499.0
+655,Apple,iPhone 11,7.0,128.0,White,Yes,429.01
+656,Apple,iPhone 14,7.0,1000.0,Purple,Yes,2119.0
+657,Motorola,Moto G62,4.0,128.0,Gray,Yes,186.98
+658,Apple,iPhone 11,7.0,128.0,Green,Yes,639.0
+659,Samsung,Galaxy A53,6.0,128.0,Blue,Yes,399.0
+660,Samsung,Galaxy A52,6.0,128.0,Black,Yes,400.0
+661,Samsung,Galaxy Z Fold4,12.0,512.0,Green,Yes,1919.0
+662,Samsung,Galaxy A13,4.0,64.0,Black,Yes,189.99
+663,TCL,305i,2.0,32.0,Black,Yes,80.63
+664,Xiaomi,Redmi 10C,3.0,64.0,Blue,Yes,107.94
+665,Samsung,Galaxy S21,6.0,128.0,Gray,Yes,759.0
+666,Samsung,Galaxy S20,8.0,256.0,Blue,Yes,654.53
+667,Xiaomi,13,12.0,256.0,White,Yes,1338.8
+668,Samsung,Galaxy A40,4.0,64.0,Black,Yes,261.61
+669,Samsung,Galaxy S21,8.0,256.0,Purple,Yes,806.04
+670,OPPO,Reno8,8.0,256.0,Black,Yes,391.13
+671,Samsung,Galaxy Note 20,12.0,256.0,Black,Yes,517.0
+672,Apple,iPhone 13,7.0,256.0,Blue,Yes,1279.0
+673,Xiaomi,Redmi 9C,2.0,32.0,Gray,Yes,170.01
+674,Google,Pixel 4a,6.0,128.0,Black,Yes,245.0
+675,OPPO,A76,4.0,128.0,Black,Yes,239.0
+676,Samsung,Galaxy A13,4.0,128.0,Blue,Yes,199.95
+677,Apple,iPhone 13,7.0,512.0,White,Yes,1249.0
+678,Apple,iPhone 13,7.0,256.0,Green,Yes,929.0
+679,Apple,iPhone 13,7.0,512.0,Red,Yes,1159.0
+680,Samsung,Galaxy S23,6.0,128.0,Green,Yes,729.0
+681,Samsung,Galaxy Z Fold4,12.0,256.0,Black,Yes,1799.0
+682,Xiaomi,12T,8.0,256.0,Blue,Yes,502.0
+683,Realme,GT Neo 3,12.0,256.0,Blue,Yes,699.0
+684,Apple,iPhone 7,7.0,256.0,Black,Yes,180.0
+685,Honor,70,8.0,256.0,Green,Yes,702.84
+686,Apple,iPhone 14,7.0,256.0,Yellow,Yes,1139.0
+687,Apple,iPhone 8,7.0,64.0,Gold,Yes,194.0
+688,Apple,iPhone 8,7.0,64.0,Silver,Yes,150.0
+689,POCO,M4,4.0,64.0,Blue,Yes,199.99
+690,Samsung,Galaxy S21,6.0,128.0,Gray,Yes,480.45
+691,Apple,iPhone 8,7.0,256.0,Silver,Yes,189.99
+692,Apple,iPhone 11,7.0,64.0,Red,Yes,589.0
+693,Realme,GT Master Edition,6.0,128.0,Black,Yes,351.6
+694,Samsung,Galaxy S20,8.0,128.0,Black,Yes,1063.47
+695,POCO,F5,12.0,256.0,Blue,Yes,479.99
+696,Apple,iPhone XS,7.0,64.0,Gray,Yes,302.0
+697,Honor,Magic5,6.0,128.0,Green,Yes,449.55
+698,Xiaomi,Shark 5,12.0,256.0,Black,Yes,779.0
+700,Samsung,S10+,6.0,128.0,White,Yes,563.69
+701,Xiaomi,Redmi 9C,2.0,32.0,Gray,No,92.93
+702,POCO,M5,4.0,128.0,Yellow,Yes,206.99
+703,Apple,iPhone 12,7.0,256.0,Gold,Yes,667.0
+704,Samsung,Galaxy S20,6.0,128.0,Red,Yes,649.0
+705,Apple,iPhone 14,7.0,256.0,Yellow,Yes,1289.0
+706,Xiaomi,Note 10S,6.0,128.0,Gray,Yes,295.97
+707,Google,Pixel 6,12.0,128.0,Black,Yes,1166.96
+708,OPPO,Reno8,8.0,256.0,Green,Yes,699.0
+709,Apple,11 Pro,7.0,256.0,Silver,Yes,627.02
+710,Apple,iPhone 14,7.0,512.0,Black,Yes,1399.0
+711,Xiaomi,Redmi Note 11S,4.0,128.0,Black,Yes,199.95
+712,POCO,M4,4.0,64.0,Black,Yes,199.99
+713,Xiaomi,PocoPhone F3,8.0,256.0,Silver,Yes,369.0
+714,Xiaomi,Redmi 9C,4.0,128.0,Gray,Yes,196.26
+715,OPPO,X3,12.0,256.0,Black,Yes,807.0
+716,Samsung,Galaxy Z Fold4,12.0,256.0,Green,Yes,1799.0
+717,Xiaomi,Redmi 10,4.0,128.0,White,Yes,240.84
+718,Huawei,P40,8.0,256.0,Black,Yes,938.57
+719,Xiaomi,Redmi 10,4.0,64.0,Gray,Yes,213.47
+720,Apple,iPhone 8,7.0,64.0,Gold,Yes,155.0
+721,Apple,iPhone 12,7.0,128.0,Black,Yes,913.88
+722,Apple,iPhone 8,7.0,256.0,Gold,Yes,199.0
+723,Xiaomi,Redmi A2,2.0,32.0,Black,Yes,79.99
+724,Realme,C35,4.0,128.0,Green,Yes,234.63
+725,Motorola,Edge 30,8.0,128.0,Silver,Yes,399.0
+726,POCO,F5,8.0,256.0,White,Yes,579.99
+727,Samsung,Galaxy A53,6.0,128.0,White,Yes,399.0
+728,Xiaomi,Redmi Note 10,6.0,128.0,Gray,Yes,327.96
+729,Apple,iPhone 7,7.0,128.0,Black,Yes,130.0
+730,Xiaomi,X3,6.0,128.0,Blue,Yes,361.71
+731,Xiaomi,Redmi 10A,4.0,128.0,Gray,Yes,179.99
+732,Samsung,Galaxy S22,8.0,256.0,Black,Yes,711.0
+733,POCO,C40,4.0,64.0,Black,Yes,137.9
+734,Honor,70,8.0,256.0,Black,Yes,409.9
+735,OPPO,Reno8,8.0,256.0,Gold,Yes,403.0
+736,Apple,iPhone 11,7.0,256.0,Red,Yes,469.0
+737,Xiaomi,Redmi 9A,2.0,32.0,Blue,Yes,129.0
+738,OnePlus,8,12.0,256.0,Blue,Yes,1333.0
+739,POCO,C40,3.0,32.0,Black,Yes,149.99
+740,Apple,iPhone 7,7.0,128.0,Red,Yes,130.0
+741,OPPO,A74,6.0,128.0,Black,Yes,259.0
+742,Samsung,Galaxy S21,7.0,128.0,Purple,Yes,759.0
+743,Xiaomi,Mi 11i,8.0,128.0,Black,Yes,429.01
+744,Apple,11 Pro,7.0,64.0,Silver,Yes,507.99
+745,Apple,iPhone 12,7.0,256.0,Silver,Yes,665.0
+746,Honor,X8a,6.0,128.0,Turquoise,Yes,231.4
+747,Samsung,Galaxy S21,6.0,128.0,Green,Yes,759.0
+748,OPPO,Find X2 Neo,12.0,256.0,Black,Yes,189.0
+749,POCO,F4,12.0,256.0,Silver,Yes,689.0
+750,Apple,11 Pro,7.0,64.0,Green,Yes,489.0
+751,Samsung,Galaxy S21,7.0,256.0,Gray,Yes,1246.02
+752,Honor,X7,4.0,128.0,Black,Yes,252.22
+753,Samsung,Galaxy Z Fold4,12.0,512.0,Black,Yes,1495.0
+754,Apple,iPhone 13,7.0,512.0,Blue,Yes,1159.0
+755,Realme,9 Pro,8.0,128.0,Green,Yes,352.59
+756,Apple,iPhone 13,7.0,512.0,Black,Yes,1249.0
+757,Apple,iPhone 13,7.0,512.0,Black,Yes,1159.0
+758,Samsung,Galaxy A13,3.0,32.0,Black,Yes,167.98
+759,Apple,11 Pro,7.0,256.0,Green,Yes,517.0
+760,Apple,iPhone XR,7.0,128.0,Black,Yes,398.48
+761,Xiaomi,9T,4.0,64.0,Blue,Yes,157.0
+762,Apple,iPhone SE,7.0,64.0,Black,Yes,439.0
+763,Xiaomi,Redmi 9AT,2.0,32.0,Gray,Yes,139.0
+764,Apple,iPhone 8,7.0,256.0,Gray,Yes,269.0
+765,OnePlus,Nord,12.0,256.0,Gray,Yes,587.36
+766,POCO,X5 Pro,8.0,256.0,Yellow,Yes,368.9
+767,Xiaomi,Redmi 12C,3.0,32.0,Blue,Yes,149.99
+768,Google,Pixel 6,8.0,128.0,Black,Yes,691.64
+769,Samsung,Galaxy Z Fold3,8.0,256.0,Black,Yes,1128.0
+770,Apple,iPhone 12,7.0,512.0,Silver,Yes,805.51
+771,Xiaomi,11 Lite,8.0,128.0,Green,Yes,430.66
+772,Samsung,Galaxy S23,8.0,256.0,Black,Yes,1175.19
+773,Xiaomi,Redmi Note 11S,6.0,64.0,Blue,Yes,249.0
+774,Samsung,Galaxy A22,4.0,128.0,White,Yes,249.01
+775,Huawei,P40,8.0,256.0,Silver,Yes,842.29
+776,Xiaomi,Redmi Note 12,8.0,128.0,White,Yes,399.99
+777,Xiaomi,Shark 4,12.0,256.0,Black,Yes,628.99
+778,Samsung,Galaxy A13,3.0,32.0,Black,Yes,165.0
+779,Samsung,Galaxy S20,8.0,128.0,Pink,Yes,275.0
+780,Samsung,Galaxy Z Fold 3,12.0,512.0,Silver,Yes,1204.0
+781,Samsung,Galaxy S20,8.0,128.0,Gray,Yes,499.0
+782,Samsung,Galaxy S20,6.0,128.0,Blue,Yes,640.67
+783,Xiaomi,Redmi Note 12,4.0,128.0,Blue,Yes,209.9
+784,Apple,iPhone 12,7.0,512.0,Gold,Yes,837.01
+785,Samsung,Galaxy A71,6.0,128.0,Blue,No,203.99
+786,Samsung,S10e,8.0,128.0,Black,Yes,506.39
+787,Samsung,Galaxy A51,4.0,128.0,Black,Yes,529.99
+788,Xiaomi,11 Pro,8.0,128.0,Blue,Yes,439.08
+789,Apple,iPhone 14,7.0,1000.0,Gold,Yes,2119.0
+791,Apple,iPhone XS,7.0,256.0,Gold,Yes,368.0
+792,POCO,M5s,4.0,128.0,Blue,Yes,229.98
+793,Realme,C21Y,4.0,64.0,Black,Yes,181.0
+794,TCL,30,4.0,128.0,Black,Yes,204.99
+795,Apple,iPhone 14,7.0,1000.0,Black,Yes,1969.0
+796,Samsung,Galaxy S22,10.0,128.0,Black,Yes,849.0
+797,Apple,iPhone 11,7.0,128.0,Purple,Yes,429.01
+798,Motorola,ThinkPhone,8.0,256.0,Gold,Yes,799.0
+799,TCL,30 SE,4.0,128.0,Gray,Yes,174.99
+800,Cubot,KingKong 7,8.0,128.0,Black,Yes,268.7
+801,Samsung,Galaxy M23,4.0,128.0,Green,Yes,214.99
+802,TCL,403,2.0,32.0,Purple,Yes,89.99
+803,Apple,iPhone 12,7.0,256.0,Gold,Yes,1100.0
+804,Apple,iPhone 13,7.0,256.0,Silver,Yes,1279.0
+805,Samsung,Galaxy S22,10.0,256.0,Green,Yes,681.0
+806,Samsung,Galaxy Z Flip3,8.0,256.0,Purple,Yes,991.0
+807,Samsung,Galaxy Note 20,8.0,256.0,Bronze,Yes,1131.66
+808,Apple,iPhone XS,7.0,256.0,Gold,Yes,389.0
+809,Xiaomi,Shark 4,8.0,128.0,Black,Yes,522.19
+810,OnePlus,7,8.0,12.0,Blue,Yes,929.0
+811,Samsung,Galaxy A53,8.0,256.0,Black,Yes,518.0
+813,Apple,iPhone 13,7.0,128.0,Green,Yes,1259.0
+814,POCO,M5s,4.0,64.0,White,Yes,210.0
+815,Samsung,Galaxy A13,4.0,64.0,Black,Yes,294.36
+816,Samsung,Galaxy S21,7.0,256.0,Purple,Yes,372.0
+817,Samsung,Galaxy A13,4.0,64.0,White,Yes,176.95
+818,Samsung,Galaxy Z Flip4,8.0,256.0,Purple,Yes,1029.7
+819,Nothing,Phone (1),8.0,256.0,White,Yes,701.5
+820,POCO,M4,6.0,128.0,Black,Yes,275.76
+821,Samsung,Galaxy S22,10.0,128.0,Pink,Yes,801.77
+822,Xiaomi,Mi 11,8.0,256.0,Gray,Yes,524.0
+823,Xiaomi,Redmi 9C,4.0,128.0,Green,Yes,196.26
+824,Xiaomi,Mi 9,6.0,64.0,Black,Yes,399.0
+825,Xiaomi,13,12.0,256.0,White,Yes,1099.99
+826,Apple,iPhone 8,7.0,64.0,Gray,Yes,189.0
+827,Samsung,S10+,6.0,128.0,Black,Yes,563.69
+828,Samsung,S10e,8.0,128.0,Green,Yes,199.0
+829,Cubot,P60,6.0,128.0,White,Yes,159.95
+830,Samsung,Galaxy S20,12.0,128.0,Black,Yes,368.0
+831,Xiaomi,Redmi 9AT,2.0,32.0,Blue,Yes,135.3
+832,Realme,7,8.0,128.0,Silver,Yes,239.0
+833,Nokia,G11,3.0,32.0,Black,Yes,111.01
+834,Samsung,Galaxy A32,4.0,64.0,Black,Yes,254.72
+835,Motorola,Edge 20,8.0,128.0,Green,Yes,235.01
+836,Realme,9i,4.0,64.0,Blue,Yes,232.59
+837,Samsung,Galaxy S20,12.0,128.0,Blue,Yes,796.95
+838,POCO,X4,8.0,256.0,Black,Yes,429.99
+839,Samsung,Galaxy A50,4.0,128.0,Blue,Yes,155.0
+840,Samsung,Galaxy A71,6.0,128.0,Black,No,543.37
+841,Samsung,Galaxy S23,8.0,256.0,Green,Yes,1084.0
+842,Samsung,Galaxy XCover6,6.0,128.0,Black,Yes,623.71
+843,ZTE,Blade A31,2.0,32.0,Blue,Yes,84.9
+844,Samsung,Galaxy S21,7.0,128.0,Gray,Yes,635.23
+845,SPC,Smart Ultimate,3.0,64.0,Black,Yes,109.95
+846,Ulefone,Armor 8,8.0,128.0,Red,Yes,199.99
+848,Samsung,Galaxy A23,4.0,128.0,White,Yes,249.01
+849,Samsung,Galaxy S20,12.0,128.0,Gray,Yes,701.09
+850,Xiaomi,11 Pro,6.0,128.0,Gray,Yes,283.47
+851,Samsung,Galaxy S20,12.0,128.0,Gray,Yes,637.0
+852,Xiaomi,Mi 10T,6.0,128.0,Gray,Yes,203.0
+853,Huawei,P30,6.0,128.0,Blue,Yes,239.98
+854,Cubot,King Kong 5,4.0,64.0,Orange,Yes,206.34
+855,Samsung,Galaxy A71,6.0,128.0,Silver,No,203.99
+856,Xiaomi,Note 10S,6.0,64.0,Gray,Yes,258.3
+857,Samsung,Galaxy Note 10,6.0,256.0,Black,Yes,810.78
+858,Samsung,Galaxy A13,4.0,64.0,Black,Yes,184.88
+859,TCL,305i,2.0,32.0,Blue,Yes,84.1
+860,Apple,iPhone 12,7.0,256.0,Black,Yes,979.0
+861,Samsung,Galaxy S21,8.0,256.0,Green,Yes,649.0
+862,OPPO,X3,12.0,256.0,Silver,Yes,819.0
+863,Apple,iPhone 12,7.0,512.0,Black,Yes,728.0
+864,Samsung,Galaxy Z Flip4,8.0,128.0,Blue,Yes,700.71
+865,Apple,iPhone XR,7.0,64.0,Blue,Yes,239.0
+866,Realme,GT Master Edition,6.0,128.0,Gray,Yes,351.6
+867,Apple,iPhone XS,7.0,64.0,Silver,Yes,279.0
+868,Apple,iPhone SE,7.0,64.0,White,Yes,529.0
+869,Vivo,Y21s,4.0,128.0,Blue,Yes,145.21
+870,Apple,iPhone XS,7.0,64.0,Silver,Yes,308.01
+871,Realme,GT2,12.0,256.0,Green,Yes,852.59
+872,Samsung,Galaxy S10,8.0,128.0,White,Yes,536.05
+873,Ulefone,X11 Pro,4.0,64.0,Black,Yes,189.99
+874,Xiaomi,Redmi 10A,2.0,32.0,Blue,Yes,110.3
+875,Samsung,Galaxy A40,4.0,64.0,White,No,140.0
+876,Samsung,Galaxy A40,4.0,64.0,Black,Yes,120.0
+877,Xiaomi,12,8.0,128.0,Black,Yes,567.04
+878,Xiaomi,Redmi 10C,4.0,64.0,Blue,Yes,179.99
+879,Samsung,Galaxy S22,10.0,128.0,Purple,Yes,859.0
+880,Xiaomi,11 Lite,8.0,128.0,Blue,Yes,432.35
+881,Samsung,Galaxy S21,6.0,128.0,Blue,Yes,585.97
+882,Xiaomi,13,8.0,256.0,Blue,Yes,589.57
+883,Xiaomi,Redmi Note 11S,6.0,64.0,Gray,Yes,249.0
+884,OnePlus,Nord,12.0,256.0,Gray,Yes,386.99
+885,Honor,X8,6.0,128.0,Black,Yes,179.99
+886,Samsung,Galaxy S8,4.0,64.0,Silver,Yes,271.42
+887,Apple,iPhone 12,7.0,64.0,Black,Yes,689.0
+888,Realme,9i,4.0,128.0,Black,Yes,252.59
+889,Cubot,Pocket,4.0,64.0,Red,Yes,149.96
+890,Apple,iPhone XS,7.0,64.0,Gold,Yes,279.0
+891,SPC,Smart 3,3.0,32.0,Turquoise,Yes,99.95
+892,Xiaomi,11 Pro,6.0,128.0,Gray,Yes,349.99
+893,Nothing,Phone (1),8.0,128.0,Black,Yes,625.24
+894,Xiaomi,Mi 9,6.0,128.0,Blue,Yes,528.0
+895,Apple,iPhone 12,7.0,512.0,Blue,Yes,724.0
+896,Samsung,Galaxy S23,12.0,512.0,White,Yes,1193.0
+897,Xiaomi,Redmi 10,4.0,64.0,Gray,Yes,229.94
+898,Huawei,P30,4.0,128.0,Crystal,Yes,160.0
+899,Motorola,Moto E20,2.0,32.0,Gray,Yes,109.0
+900,OPPO,A74,6.0,128.0,Blue,Yes,259.0
+901,Samsung,Galaxy A51,4.0,128.0,White,Yes,315.18
+902,Samsung,Galaxy M13,4.0,128.0,Orange,Yes,209.0
+903,OPPO,A77,6.0,128.0,Blue,Yes,302.91
+904,OnePlus,Nord,8.0,128.0,Black,Yes,376.78
+905,Apple,iPhone SE,7.0,64.0,Black,Yes,529.0
+906,Samsung,Galaxy A14,4.0,128.0,Black,Yes,193.49
+907,Xiaomi,Mi 11,8.0,128.0,Green,Yes,392.68
+908,Xiaomi,Redmi 12C,3.0,64.0,Green,Yes,169.99
+909,Motorola,Edge 30,12.0,256.0,Blue,Yes,886.95
+910,OPPO,X3,8.0,128.0,Blue,Yes,469.0
+911,Ulefone,Armor X6,2.0,16.0,Orange,Yes,106.92
+912,OPPO,X3,12.0,256.0,Blue,Yes,1169.0
+913,POCO,C40,4.0,64.0,Black,Yes,119.0
+914,Cubot,King Kong Mini 3,6.0,128.0,Black,Yes,191.0
+915,Google,Pixel 4,6.0,64.0,Black,Yes,283.81
+916,Realme,X2,8.0,128.0,White,Yes,209.0
+917,Samsung,Galaxy A33,6.0,128.0,Orange,Yes,359.0
+918,Apple,iPhone 14,7.0,1000.0,Silver,Yes,2119.0
+919,Realme,GT,8.0,128.0,Blue,Yes,497.02
+920,Samsung,Galaxy S10,8.0,128.0,Black,No,710.74
+921,Samsung,Galaxy S22,10.0,128.0,White,Yes,599.91
+922,Huawei,P30,4.0,128.0,Blue,Yes,464.37
+923,Samsung,Galaxy A52s,6.0,128.0,White,Yes,339.0
+924,Xiaomi,12,8.0,128.0,Green,Yes,567.04
+925,Realme,X3,12.0,256.0,White,Yes,325.01
+926,Ulefone,Armor X9,4.0,64.0,Green,Yes,159.99
+927,Apple,iPhone 8,7.0,64.0,Silver,Yes,195.0
+928,Motorola,One Vision,4.0,128.0,Blue,Yes,350.0
+929,Samsung,Galaxy A51,4.0,128.0,Blue,Yes,180.0
+930,Samsung,Galaxy S20,6.0,128.0,Green,Yes,649.0
+931,Xiaomi,Redmi Note 5,4.0,64.0,Gold,No,168.77
+932,Apple,iPhone XR,7.0,128.0,Blue,Yes,338.0
+933,Samsung,Galaxy S21,7.0,256.0,Purple,Yes,379.0
+934,Samsung,Galaxy S21,7.0,256.0,Silver,Yes,457.0
+935,Cubot,Pocket,4.0,64.0,Black,Yes,149.96
+936,OPPO,A76,4.0,128.0,Blue,Yes,263.97
+937,Samsung,Galaxy A52,6.0,128.0,Purple,Yes,572.23
+938,Xiaomi,Redmi 10A,2.0,32.0,Silver,Yes,96.22
+939,Apple,iPhone XR,7.0,256.0,Black,Yes,367.37
+940,CAT,S53,6.0,128.0,Black,Yes,513.42
+941,Samsung,Galaxy A23,4.0,64.0,Black,Yes,282.12
+942,Samsung,Galaxy S21,7.0,128.0,Pink,Yes,865.36
+943,TCL,403,2.0,32.0,Black,Yes,89.99
+944,Xiaomi,Redmi 9C,3.0,64.0,Gray,Yes,106.9
+945,Xiaomi,Redmi 9C,2.0,32.0,Gray,Yes,95.9
+946,Xiaomi,Redmi Note 11,4.0,64.0,Blue,Yes,199.0
+947,Samsung,Galaxy S21,7.0,128.0,Silver,Yes,822.0
+948,Samsung,Galaxy A10,2.0,32.0,Black,Yes,169.0
+949,Xiaomi,Redmi 9,4.0,64.0,Gray,Yes,200.0
+950,Xiaomi,M5s,4.0,128.0,Blue,Yes,229.98
+951,Apple,iPhone 7,7.0,32.0,Silver,Yes,110.0
+952,Xiaomi,Redmi Note 9,4.0,128.0,Green,Yes,269.0
+953,Huawei,P50,8.0,256.0,Gold,Yes,858.29
+954,Motorola,Moto G42,6.0,128.0,Green,Yes,229.0
+955,Realme,9 Pro,6.0,128.0,Black,Yes,402.59
+956,Realme,C35,4.0,64.0,Green,Yes,182.59
+958,Apple,iPhone XS,7.0,64.0,Gold,Yes,309.0
+959,Samsung,Galaxy A32,4.0,64.0,Black,Yes,299.0
+960,Samsung,Galaxy S22,12.0,256.0,Red,Yes,975.01
+961,Samsung,Galaxy S21,6.0,128.0,Purple,Yes,759.0
+962,Xiaomi,X3,6.0,128.0,Black,Yes,364.63
+963,Samsung,Galaxy Note 10,6.0,256.0,Black,Yes,897.82
+964,Samsung,Galaxy S21,7.0,256.0,Pink,Yes,1246.02
+965,Realme,7,8.0,128.0,Blue,Yes,239.0
+966,Apple,iPhone 14,7.0,512.0,Yellow,Yes,1549.0
+967,Motorola,Moto E32,4.0,64.0,Gray,Yes,144.6
+968,Motorola,Razr 2022,8.0,256.0,Black,Yes,1199.0
+969,Realme,8I,4.0,128.0,Purple,Yes,221.6
+970,Realme,9,8.0,128.0,Black,Yes,444.37
+971,Realme,C25Y,4.0,128.0,Blue,Yes,206.67
+972,Xiaomi,Mi Note 10,6.0,128.0,White,No,495.34
+973,Xiaomi,Redmi Note 10,6.0,64.0,Blue,Yes,199.99
+974,Xiaomi,Redmi Note 8T,4.0,64.0,Gray,Yes,120.0
+975,Xiaomi,9 Pro,6.0,128.0,Gray,Yes,168.58
+976,Xiaomi,9 Pro,6.0,64.0,Green,Yes,310.74
+977,Apple,iPhone 13,7.0,256.0,Red,Yes,929.0
+978,Apple,iPhone 13,7.0,512.0,White,Yes,1159.0
+979,Apple,iPhone 14,7.0,512.0,Yellow,Yes,1399.0
+980,Apple,iPhone 14,7.0,1000.0,Purple,Yes,1969.0
+981,Samsung,Galaxy S20,12.0,128.0,Pink,Yes,1281.61
+982,Samsung,Galaxy Z Flip4,8.0,256.0,Gray,No,1162.93
+983,Samsung,Galaxy Z Fold4,12.0,512.0,Black,Yes,1922.93
+984,Xiaomi,13,8.0,256.0,Black,Yes,758.68
+985,Xiaomi,Redmi 9AT,2.0,32.0,Gray,Yes,99.5
+986,Hammer,Explorer Plus Eco,4.0,64.0,Orange,No,235.22
+987,Motorola,Edge 30,8.0,128.0,Gold,Yes,399.0
+988,Nokia,XR20,4.0,64.0,Blue,Yes,348.04
+989,POCO,M5s,4.0,64.0,Blue,Yes,189.9
+990,Apple,iPhone 12,7.0,512.0,Black,Yes,799.0
+991,Realme,C21Y,4.0,64.0,Blue,Yes,152.59
+992,Huawei,P20,4.0,96.0,Black,Yes,185.0
+993,Apple,iPhone 12,7.0,64.0,Purple,Yes,689.0
+994,POCO,C40,4.0,64.0,Green,Yes,169.99
+995,Realme,X50 Pro,12.0,256.0,Red,Yes,448.99
+996,Samsung,Galaxy A33,6.0,128.0,Blue,Yes,319.34
+997,Xiaomi,Mi 10T,8.0,128.0,Silver,Yes,682.59
+998,Apple,iPhone XS,7.0,512.0,Silver,Yes,419.0
+999,OnePlus,Nord,12.0,256.0,Blue,Yes,365.0
+1000,Samsung,S10+,6.0,128.0,Black,Yes,281.0
+1001,Samsung,S10+,6.0,128.0,Black,Yes,670.0
+1002,Apple,iPhone XR,7.0,64.0,Pink,Yes,270.0
+1003,Huawei,P30,6.0,128.0,Crystal,Yes,209.0
+1004,OPPO,A16,3.0,32.0,Black,Yes,186.52
+1006,Samsung,Galaxy S22,10.0,128.0,Green,Yes,716.13
+1007,Vivo,Y72,8.0,128.0,White,Yes,324.59
+1008,Xiaomi,Redmi 12C,4.0,128.0,Blue,Yes,173.16
+1009,Apple,iPhone XR,7.0,64.0,Blue,Yes,363.0
+1010,Huawei,P20,4.0,96.0,Purple,Yes,620.0
+1011,OPPO,Reno 2,8.0,256.0,Black,Yes,198.0
+1012,Xiaomi,Mi 11,8.0,256.0,Blue,Yes,524.0
+1013,Realme,C25Y,4.0,128.0,Black,Yes,206.67
+1014,Samsung,Galaxy A34,6.0,128.0,Black,Yes,328.68
+1015,Ulefone,Power Armor 19,12.0,256.0,Black,Yes,505.9
+1016,Hammer,Explorer,6.0,128.0,Orange,Yes,260.0
+1017,Samsung,Galaxy A22,4.0,128.0,Gray,Yes,249.01
+1018,Samsung,Galaxy A50,4.0,128.0,White,Yes,165.0
+1019,Samsung,Galaxy M13,4.0,64.0,Green,Yes,164.11
+1020,Samsung,Galaxy S23,12.0,512.0,Purple,Yes,1249.0
+1021,Xiaomi,11T,8.0,256.0,Blue,Yes,661.85
+1022,Huawei,Nova 10,8.0,128.0,Black,Yes,625.24
+1023,Xiaomi,11 Pro,6.0,128.0,Gray,Yes,284.89
+1024,Motorola,Moto G31,4.0,64.0,Gray,Yes,165.99
+1025,Motorola,Moto G6,3.0,32.0,Blue,No,184.88
+1026,Qubo,X-626,4.0,64.0,Blue,Yes,103.39
+1027,Samsung,Galaxy A04s,3.0,32.0,Green,Yes,139.98
+1028,Samsung,Galaxy A70,6.0,128.0,Blue,Yes,180.0
+1029,Xiaomi,Redmi Note 9,3.0,64.0,White,Yes,246.95
+1030,Realme,GT2,12.0,256.0,Green,Yes,599.0
+1031,Apple,iPhone 12,7.0,256.0,White,Yes,979.0
+1032,Honor,Magic 4,6.0,128.0,Black,Yes,354.89
+1033,Honor,X8a,6.0,128.0,Black,Yes,185.8
+1034,Blackview,A60,3.0,16.0,Black,Yes,109.32
+1035,SPC,Discovery,3.0,64.0,Black,Yes,109.9
+1036,Ulefone,Armor 8,8.0,128.0,Black,Yes,199.99
+1037,Xiaomi,Redmi 10,4.0,128.0,Gray,Yes,227.5
+1038,Xiaomi,Redmi Note 8,4.0,64.0,Black,Yes,229.94
+1039,Apple,iPhone 13,7.0,512.0,Blue,Yes,1609.0
+1040,Apple,iPhone XS,7.0,512.0,Gold,Yes,488.01
+1041,OPPO,A76,4.0,128.0,Black,Yes,263.97
+1042,OnePlus,Nord,12.0,256.0,Blue,Yes,436.31
+1043,Realme,9 Pro,6.0,128.0,Green,Yes,402.59
+1044,Ulefone,Armor X6,2.0,16.0,Black,Yes,119.61
+1045,Xiaomi,11 Pro,6.0,64.0,Blue,Yes,299.99
+1046,Apple,iPhone XS,7.0,256.0,Silver,Yes,369.0
+1047,CAT,S75,6.0,128.0,Black,Yes,550.8
+1048,Honor,X6,4.0,64.0,Black,Yes,129.0
+1049,Xiaomi,M5s,4.0,128.0,White,Yes,249.9
+1050,POCO,M4,8.0,256.0,Black,Yes,359.38
+1051,Realme,GT2,8.0,128.0,Black,Yes,552.59
+1052,SPC,Smart 2,1.0,16.0,Red,Yes,70.68
+1053,Xiaomi,Redmi 10,4.0,64.0,Blue,Yes,213.47
+1054,Xiaomi,Redmi Note 11,6.0,128.0,Blue,Yes,259.99
+1055,Apple,iPhone 12,7.0,256.0,Black,Yes,859.0
+1056,Samsung,Galaxy A42,4.0,128.0,Black,Yes,591.86
+1057,Cubot,Note 8,2.0,16.0,Green,Yes,99.95
+1058,Samsung,Galaxy A13,4.0,64.0,White,Yes,182.21
+1059,Samsung,Galaxy S21,8.0,256.0,White,Yes,649.0
+1060,Huawei,Nova 9,8.0,128.0,Black,Yes,349.85
+1061,Apple,iPhone XR,7.0,256.0,White,Yes,438.0
+1062,Cubot,J20,2.0,16.0,Black,Yes,84.95
+1063,Motorola,Moto G31,4.0,128.0,Gray,Yes,219.0
+1064,Samsung,Galaxy A04s,3.0,32.0,White,Yes,137.99
+1065,Samsung,Galaxy A13,3.0,32.0,White,Yes,171.49
+1066,Samsung,Galaxy Note 20,8.0,256.0,Gray,Yes,1187.46
+1067,Samsung,Galaxy S20,6.0,128.0,Orange,Yes,649.0
+1068,Apple,11 Pro,7.0,512.0,Gray,Yes,607.0
+1069,Apple,iPhone 8,7.0,256.0,Silver,Yes,380.0
+1070,Alcatel,1SE,6.0,64.0,Green,Yes,226.98
+1071,Samsung,Galaxy A53,8.0,256.0,White,Yes,518.0
+1072,Xiaomi,Mi 10T,6.0,128.0,Silver,Yes,158.99
+1073,Huawei,Mate 20,4.0,64.0,Black,Yes,316.71
+1074,Samsung,Galaxy A13,3.0,32.0,Blue,Yes,156.94
+1075,Xiaomi,12,8.0,128.0,Purple,Yes,799.99
+1076,Xiaomi,Redmi 10A,4.0,128.0,Blue,Yes,175.22
+1077,Apple,11 Pro,7.0,256.0,Gold,Yes,559.0
+1078,Apple,iPhone SE,7.0,256.0,Black,Yes,701.61
+1079,Apple,iPhone XR,7.0,128.0,Pink,Yes,358.99
+1080,OPPO,A17,4.0,64.0,Blue,Yes,139.0
+1081,OnePlus,8T,8.0,128.0,Green,Yes,698.0
+1082,Samsung,Galaxy A22,4.0,64.0,Black,Yes,249.01
+1083,Samsung,S10+,6.0,128.0,White,Yes,670.0
+1084,Vivo,Y33s,8.0,128.0,Blue,Yes,314.6
+1085,Apple,iPhone 12,7.0,256.0,White,Yes,859.0
+1086,Huawei,P Smart 2020,4.0,128.0,Black,Yes,372.44
+1087,Realme,X50,6.0,128.0,Green,Yes,239.0
+1088,Samsung,Galaxy A13,3.0,32.0,White,Yes,159.94
+1089,Samsung,Galaxy A23,4.0,64.0,Blue,Yes,234.9
+1090,Xiaomi,Redmi 12C,3.0,32.0,Gray,Yes,149.99
+1091,Apple,iPhone 11,7.0,128.0,Yellow,Yes,447.0
+1092,Asus,ROG Phone 5,12.0,256.0,Black,Yes,789.0
+1093,Huawei,P30,6.0,128.0,Black,Yes,209.0
+1094,Huawei,P30,4.0,128.0,Black,Yes,368.81
+1095,OnePlus,9 Pro,8.0,128.0,Black,Yes,769.87
+1096,Samsung,Galaxy A32,4.0,128.0,Black,Yes,333.0
+1097,Apple,iPhone 11,7.0,64.0,Yellow,Yes,378.0
+1098,Apple,iPhone XR,7.0,64.0,Black,Yes,465.0
+1099,CAT,B35,6.0,4.0,Black,Yes,116.99
+1100,Huawei,Mate 20,4.0,4.0,Black,Yes,349.0
+1101,Samsung,Galaxy S23,8.0,256.0,Black,Yes,1209.0
+1102,Apple,iPhone 12,7.0,64.0,White,Yes,689.0
+1103,Huawei,8I,6.0,128.0,Black,Yes,219.0
+1104,POCO,F4,8.0,128.0,Black,Yes,612.07
+1105,Realme,X2,8.0,128.0,Blue,Yes,269.0
+1106,Samsung,Galaxy Z Flip4,8.0,512.0,Gray,Yes,797.0
+1107,Ulefone,Power Armor 16,4.0,64.0,Black,Yes,241.0
+1108,Ulefone,Power Armor 18T,12.0,256.0,Black,Yes,792.19
+1109,Motorola,Edge 20,12.0,256.0,Blue,Yes,618.21
+1110,Realme,9 Pro,6.0,128.0,Black,Yes,332.59
+1111,Cubot,King Kong 6,4.0,64.0,Black,Yes,171.49
+1112,Xiaomi,Shark 4,8.0,128.0,Gray,Yes,528.84
+1113,Honor,70,4.0,128.0,Black,Yes,251.55
+1114,Samsung,Galaxy S20,8.0,128.0,Blue,Yes,600.0
+1115,Samsung,Galaxy S21,7.0,128.0,White,Yes,865.36
+1116,Xiaomi,Redmi Note 8T,3.0,32.0,Blue,Yes,195.0
+1117,Xiaomi,Redmi Note 10,8.0,256.0,Blue,Yes,388.0
+1118,OPPO,Reno4,12.0,256.0,Black,Yes,597.99
+1119,Realme,9i,4.0,64.0,Black,Yes,232.59
+1120,Samsung,Galaxy A13,4.0,64.0,Blue,Yes,199.0
+1121,Xiaomi,12T,8.0,128.0,Black,Yes,599.0
+1122,Apple,11 Pro,7.0,512.0,Gray,Yes,614.99
+1123,OPPO,Reno2 Z,8.0,128.0,Black,Yes,184.0
+1124,Xiaomi,Redmi Note 10,4.0,64.0,Gray,Yes,229.99
+1125,Microsoft,Surface Duo,6.0,256.0,White,Yes,552.39
+1126,POCO,M4,6.0,128.0,Blue,Yes,312.26
+1127,Realme,9 Pro,6.0,128.0,Blue,Yes,340.42
+1128,Realme,C21Y,3.0,32.0,Blue,Yes,155.04
+1129,Realme,C21Y,3.0,32.0,Black,Yes,132.59
+1130,Realme,C31,3.0,32.0,Green,Yes,152.59
+1131,Samsung,Galaxy A12,6.0,128.0,Black,Yes,240.27
+1132,Samsung,Galaxy M12,4.0,64.0,Black,Yes,159.0
+1133,Samsung,S10+,12.0,512.0,Black,Yes,701.09
+1134,Samsung,Galaxy S21,7.0,256.0,Silver,Yes,1531.16
+1135,Samsung,Galaxy S23,8.0,256.0,Green,Yes,1357.57
+1136,Vivo,Y01,3.0,32.0,Black,Yes,120.08
+1137,Xiaomi,Mi 8,6.0,64.0,White,Yes,331.93
+1138,Xiaomi,Mi A2,3.0,32.0,Gold,Yes,164.0
+1139,Xiaomi,Redmi 10,4.0,128.0,Blue,Yes,209.28
+1140,Xiaomi,Redmi Note 10,4.0,128.0,White,Yes,259.0
+1141,Xiaomi,Redmi Note 10,6.0,64.0,Gray,Yes,299.99
+1142,Xiaomi,11 Pro,6.0,128.0,Gray,Yes,581.32
+1143,Xiaomi,Redmi Note 11S,6.0,128.0,Black,Yes,233.18
+1144,Xiaomi,Redmi Note 8,4.0,64.0,White,Yes,221.15
+1145,Realme,8,6.0,128.0,Black,Yes,209.0
+1146,Xiaomi,Shark 5,8.0,128.0,Gray,Yes,549.0
+1147,Honor,X6,4.0,64.0,Blue,Yes,135.0
+1148,Xiaomi,9T,4.0,128.0,Blue,Yes,254.74
+1149,OPPO,X2,8.0,128.0,Black,Yes,212.0
+1150,Samsung,Galaxy Z Flip4,8.0,256.0,Gray,Yes,869.0
+1151,Xiaomi,10,8.0,256.0,Gray,Yes,289.0
+1152,Samsung,Galaxy S22,10.0,256.0,Purple,Yes,802.61
+1153,OPPO,A94,8.0,128.0,Black,Yes,379.0
+1154,Realme,C35,4.0,128.0,Black,Yes,202.59
+1155,Samsung,Galaxy S21,7.0,512.0,Black,Yes,542.0
+1156,Xiaomi,Mi 11i,8.0,256.0,Silver,Yes,234.0
+1157,Blackview,BL5000,8.0,128.0,Orange,Yes,377.91
+1158,Huawei,P40,6.0,128.0,Green,Yes,355.92
+1159,Realme,8,8.0,128.0,Blue,Yes,254.0
+1160,Realme,C33,4.0,64.0,Black,Yes,172.59
+1161,Samsung,Galaxy A23,4.0,64.0,White,Yes,229.9
+1162,Samsung,Galaxy S22,10.0,256.0,Black,Yes,1098.99
+1163,Xiaomi,11 Lite,8.0,128.0,Black,Yes,461.82
+1164,Xiaomi,Mi 9,6.0,128.0,Black,Yes,528.0
+1165,Xiaomi,Redmi Note 10,8.0,128.0,Gray,Yes,412.6
+1166,Realme,8,6.0,128.0,Blue,Yes,225.0
+1167,Apple,iPhone 13,7.0,128.0,Black,Yes,1159.0
+1168,Apple,iPhone 13,7.0,256.0,Gold,Yes,1279.0
+1169,Apple,iPhone 13,7.0,1000.0,Blue,Yes,1839.0
+1170,Huawei,P30,4.0,128.0,White,Yes,160.0
+1171,Samsung,Galaxy A20e,3.0,32.0,Blue,Yes,99.99
+1172,Samsung,Galaxy A50,4.0,128.0,Blue,Yes,261.0
+1173,Samsung,Galaxy A70,6.0,128.0,Black,Yes,180.0
+1174,Samsung,S10e,8.0,128.0,Blue,Yes,203.99
+1175,Samsung,Galaxy S20,6.0,128.0,Green,Yes,244.0
+1176,Apple,iPhone 12,7.0,256.0,Green,Yes,979.0
+1177,Realme,9 Pro,6.0,128.0,Green,Yes,332.59
+1178,Samsung,Galaxy A13,4.0,128.0,White,Yes,248.82
+1179,Samsung,Galaxy XCover 5,4.0,64.0,Black,Yes,264.68
+1180,Samsung,Galaxy Z Flip4,8.0,128.0,Pink,Yes,714.0
+1181,Xiaomi,12T,8.0,256.0,Black,Yes,879.0
+1182,Apple,iPhone 12,7.0,512.0,Blue,Yes,835.0
+1183,Apple,iPhone 7,7.0,32.0,Silver,Yes,160.95
+1184,Huawei,P30,8.0,128.0,Blue,Yes,549.0
+1185,Realme,X50 Pro,8.0,128.0,Green,Yes,715.59
+1186,Xiaomi,Mi 10T,8.0,128.0,Black,Yes,321.0
+1187,Xiaomi,Redmi 10,4.0,64.0,White,Yes,221.89
+1188,Xiaomi,Redmi 9A,2.0,32.0,Blue,No,129.0
+1189,Vivo,Y72,8.0,128.0,Black,Yes,258.56
+1190,ZTE,Blade A52,2.0,32.0,Green,Yes,109.0
+1191,Cubot,King Kong Mini 2,3.0,32.0,Red,Yes,148.24
+1192,Samsung,Galaxy A53,8.0,256.0,Blue,Yes,559.36
+1193,Samsung,Galaxy S22,10.0,256.0,Black,Yes,975.01
+1194,Samsung,Galaxy S21,7.0,512.0,Silver,Yes,577.0
+1195,Vivo,X90,12.0,256.0,Black,Yes,996.98
+1196,Xiaomi,9T,6.0,128.0,Black,Yes,559.56
+1197,Huawei,P40,6.0,128.0,Black,Yes,356.76
+1198,Realme,GT2,12.0,256.0,White,Yes,852.59
+1199,Samsung,Galaxy A14,4.0,128.0,Green,Yes,193.49
+1200,Xiaomi,11T Pro,8.0,128.0,Blue,Yes,649.99
+1201,Xiaomi,12X,8.0,256.0,Blue,Yes,773.5
+1202,OPPO,A57,4.0,64.0,Black,Yes,157.66
+1203,OPPO,Reno6,8.0,128.0,Blue,Yes,499.0
+1204,Samsung,Galaxy S20,8.0,256.0,Blue,Yes,549.0
+1205,Samsung,Galaxy S22,10.0,128.0,Black,Yes,799.0
+1206,Samsung,Galaxy S9,8.0,128.0,Purple,Yes,399.0
+1207,Apple,iPhone 11,7.0,256.0,Green,Yes,550.01
+1208,Honor,Magic4,8.0,256.0,Black,Yes,639.0
+1209,OPPO,Reno4,8.0,128.0,Black,Yes,599.0
+1210,OnePlus,9,12.0,256.0,Black,Yes,528.0
+1211,OPPO,A53s,4.0,128.0,Black,Yes,149.0
+1212,POCO,X4,8.0,256.0,Blue,Yes,450.87
+1213,Realme,C30,3.0,32.0,Black,Yes,142.59
+1214,Ulefone,X5 Pro,4.0,64.0,Black,Yes,193.2
+1215,Xiaomi,Redmi Note 9,3.0,64.0,Gray,Yes,109.0
+1216,Samsung,Galaxy A21s,3.0,32.0,Black,Yes,144.99
+1217,Huawei,Nova 10,8.0,128.0,Silver,Yes,631.1
+1218,Huawei,P30,8.0,128.0,Crystal,Yes,849.88
+1219,OPPO,A16s,4.0,64.0,Blue,Yes,189.0
+1220,Samsung,Galaxy S20,6.0,128.0,White,Yes,640.72
+1221,Samsung,Galaxy Z Fold3,8.0,256.0,Silver,Yes,1128.0
+1222,Xiaomi,Redmi 10,4.0,64.0,Gray,Yes,221.89
+1223,Apple,iPhone 7,7.0,128.0,Pink,Yes,135.0
+1224,Apple,11 Pro,7.0,256.0,Gold,Yes,519.01
+1225,OPPO,X2,12.0,512.0,Black,Yes,327.99
+1227,Samsung,Galaxy S21,6.0,128.0,Gray,Yes,749.0
+1228,Samsung,Galaxy XCover6,6.0,128.0,Black,Yes,579.7
+1229,Samsung,Galaxy Z Flip3,8.0,128.0,Black,No,1087.57
+1230,TCL,20 R,4.0,64.0,Blue,Yes,209.99
+1231,Ulefone,Power Armor 14,6.0,128.0,Black,Yes,311.03
+1232,Xiaomi,Mi 10T,8.0,256.0,Silver,Yes,599.0
+1233,Xiaomi,Mi Note 10,6.0,128.0,Green,Yes,219.0
+1234,Apple,iPhone 12,7.0,128.0,Purple,Yes,739.0
+1235,Cubot,King Kong Mini 2,4.0,64.0,Orange,Yes,200.99
+1236,OPPO,A96,8.0,128.0,Blue,Yes,240.0
+1237,OPPO,Find X2 Neo,12.0,256.0,Blue,Yes,189.0
+1238,Samsung,Galaxy A12,4.0,64.0,White,Yes,150.0
+1239,Xiaomi,11 Pro,6.0,128.0,White,Yes,349.99
+1240,Apple,iPhone 13,7.0,256.0,Black,Yes,1279.0
+1241,Xiaomi,Redmi 9A,2.0,32.0,Blue,Yes,111.8
+1242,Apple,iPhone 11,7.0,256.0,Purple,Yes,550.01
+1243,Apple,11 Pro,7.0,512.0,Gold,Yes,608.0
+1244,Apple,11 Pro,7.0,512.0,Silver,Yes,645.99
+1245,Apple,11 Pro,7.0,64.0,Gold,Yes,529.0
+1246,Apple,iPhone 12,7.0,256.0,Blue,Yes,859.0
+1247,Apple,iPhone 12,7.0,64.0,Green,Yes,689.0
+1248,Apple,iPhone 13,7.0,512.0,Gold,Yes,1509.0
+1249,Apple,iPhone 7,7.0,128.0,Silver,Yes,135.0
+1250,Apple,iPhone 7,7.0,32.0,Gold,Yes,168.0
+1251,Apple,iPhone 7,7.0,32.0,Gold,Yes,155.0
+1252,Apple,iPhone SE,7.0,128.0,Red,Yes,311.38
+1253,Apple,iPhone XR,7.0,128.0,Pink,Yes,339.01
+1254,Apple,iPhone XR,7.0,256.0,Red,Yes,428.0
+1255,Apple,iPhone XR,7.0,64.0,Pink,Yes,279.0
+1256,Apple,iPhone XS,7.0,256.0,Gray,Yes,367.01
+1257,Apple,iPhone XS,7.0,512.0,Gray,Yes,488.01
+1258,Asus,Zenfone 7,8.0,256.0,Black,Yes,444.72
+1259,Huawei,P Smart 2019,4.0,3.0,Blue,Yes,109.0
+1260,OnePlus,6,8.0,128.0,Black,Yes,244.43
+1261,OnePlus,8,8.0,128.0,Black,Yes,819.0
+1262,Samsung,Galaxy A12,4.0,64.0,Black,Yes,1399.0
+1263,Samsung,Galaxy A12,4.0,64.0,Blue,Yes,150.0
+1264,Samsung,Galaxy A21s,3.0,32.0,Blue,Yes,253.0
+1265,Samsung,Galaxy A40,4.0,64.0,Blue,Yes,120.0
+1266,Samsung,Galaxy A52s,6.0,128.0,Purple,Yes,339.0
+1267,Samsung,Galaxy J5,8.0,128.0,Black,Yes,107.9
+1268,Samsung,Note 8,2.0,64.0,Gold,Yes,550.01
+1270,Samsung,Galaxy Z Flip4,8.0,256.0,Pink,No,1162.93
+1271,Xiaomi,10,8.0,128.0,Gray,Yes,289.0
+1272,Xiaomi,10,6.0,128.0,Blue,Yes,349.0
+1273,Xiaomi,10,6.0,128.0,Gray,Yes,349.0
+1275,Xiaomi,9T,6.0,64.0,Blue,Yes,428.0
+1276,Xiaomi,Redmi Note 10,8.0,128.0,Gray,Yes,349.0
+1277,Xiaomi,9 Pro,6.0,128.0,Green,Yes,213.0
+1278,Apple,iPhone 13,7.0,512.0,Black,Yes,1509.0
+1279,Apple,iPhone 13,7.0,1000.0,Black,Yes,1839.0
+1280,Apple,iPhone 7,7.0,32.0,Pink,Yes,110.0
+1281,Apple,iPhone 7,7.0,32.0,Pink,Yes,155.0
+1282,Apple,iPhone 7,7.0,32.0,Black,Yes,150.0
+1283,Huawei,Y6p,3.0,64.0,Black,Yes,214.0
+1284,Nokia,5.4,4.0,64.0,Black,Yes,1499.0
+1285,OPPO,Reno8,8.0,256.0,Black,Yes,529.98
+1286,OnePlus,7,8.0,8.0,Blue,Yes,655.0
+1287,OnePlus,7T,8.0,128.0,Blue,Yes,534.0
+1288,OPPO,X2,8.0,128.0,White,Yes,212.0
+1289,Samsung,Galaxy A12,4.0,64.0,Blue,Yes,1399.0
+1290,Samsung,Galaxy A21s,3.0,32.0,Blue,Yes,144.99
+1291,Samsung,S10e,8.0,128.0,White,Yes,199.0
+1292,Samsung,Galaxy S20,12.0,128.0,White,Yes,319.0
+1293,Samsung,Galaxy Z Fold4,12.0,256.0,Green,Yes,1802.94
+1294,Xiaomi,Redmi Note 10,4.0,128.0,Gray,Yes,159.88
+1295,Nokia,C2,2.0,32.0,Blue,Yes,111.89
+1296,Asus,ZenFone 9,8.0,128.0,Black,Yes,1021.0
+1297,Alcatel,1B,2.0,32.0,Black,Yes,85.99
+1299,Xiaomi,Shark 4,8.0,128.0,Black,Yes,400.18
+1300,Xiaomi,Shark 5,8.0,128.0,Black,Yes,549.0
+1301,Blackview,A100,6.0,128.0,Blue,Yes,224.18
+1302,Blackview,A100,6.0,128.0,Black,Yes,169.99
+1303,Blackview,A100,6.0,128.0,Pink,Yes,224.12
+1304,Blackview,A100,6.0,128.0,Green,Yes,169.99
+1305,Blackview,A55,3.0,16.0,Blue,Yes,130.72
+1306,Blackview,A55,3.0,16.0,Black,Yes,129.62
+1307,Blackview,A55,3.0,16.0,Green,Yes,130.72
+1308,Blackview,A55,4.0,64.0,Black,Yes,157.54
+1309,Blackview,A70,3.0,32.0,Black,Yes,146.54
+1310,Blackview,A80,2.0,16.0,Black,Yes,133.35
+1311,Blackview,A80,2.0,16.0,Red,Yes,131.74
+1312,Blackview,A80,4.0,64.0,Black,Yes,223.78
+1313,Blackview,A90,4.0,64.0,Blue,Yes,177.86
+1314,Blackview,A90,4.0,64.0,Black,Yes,177.86
+1315,Blackview,A90,4.0,64.0,Orange,Yes,177.86
+1316,Blackview,A90,4.0,64.0,Black,Yes,149.99
+1317,Blackview,BL5000,8.0,128.0,Black,Yes,319.98
+1318,Blackview,BV4900,3.0,32.0,Black,Yes,203.0
+1319,Blackview,BV6300,6.0,128.0,Green,Yes,224.0
+1320,Blackview,BV6600,4.0,64.0,Black,Yes,252.29
+1321,Blackview,BV6600,4.0,64.0,Green,Yes,220.95
+1322,Blackview,BV6600,4.0,64.0,Black,Yes,389.08
+1323,Blackview,BV6600,4.0,64.0,Green,Yes,382.57
+1324,Blackview,BV9900E,6.0,128.0,Black,Yes,490.24
+1325,Blackview,BV4900,3.0,4.0,Orange,No,190.58
+1326,CAT,S42 H+,3.0,32.0,Black,Yes,309.06
+1327,Crosscall,Action-X5,4.0,64.0,Black,Yes,633.0
+1328,Crosscall,CORE-M5,3.0,32.0,Black,Yes,410.0
+1329,Crosscall,CORE-X5,4.0,64.0,Black,Yes,607.19
+1330,Crosscall,Core-X4,3.0,32.0,Black,Yes,487.09
+1331,Cubot,J20,2.0,16.0,Green,Yes,84.95
+1332,Cubot,King Kong 5,4.0,32.0,Black,Yes,185.72
+1333,Cubot,King Kong Mini 2,4.0,64.0,Red,Yes,170.13
+1334,Cubot,Max 3,4.0,64.0,Black,Yes,202.26
+1335,Cubot,Max 3,4.0,64.0,Green,Yes,180.82
+1336,Cubot,Note 30,4.0,64.0,Black,Yes,149.96
+1337,Cubot,Note 30,4.0,64.0,Green,Yes,159.95
+1338,Cubot,Note 8,2.0,16.0,Black,Yes,109.95
+1339,Cubot,Note 9,3.0,32.0,Black,Yes,155.55
+1340,Cubot,Note 9,3.0,32.0,Green,Yes,154.11
+1341,Cubot,P50,6.0,128.0,Black,Yes,179.95
+1342,Cubot,P50,6.0,128.0,Green,Yes,179.95
+1343,Cubot,P60,6.0,128.0,Black,Yes,159.95
+1344,Cubot,Pocket,4.0,64.0,Black,Yes,175.43
+1345,Cubot,Pocket,4.0,64.0,Green,Yes,159.95
+1346,Cubot,Pocket,4.0,64.0,Green,Yes,149.94
+1347,Doro,8050,2.0,16.0,Gray,Yes,179.47
+1348,Doro,8100,2.0,32.0,Black,Yes,291.88
+1349,Doro,8100,2.0,32.0,Pink,Yes,291.88
+1351,Funker,W5.5,2.0,16.0,Blue,No,220.78
+1352,Gigaset,GS195LS,2.0,32.0,Black,Yes,186.65
+1353,Gigaset,GX290,3.0,32.0,Black,Yes,294.89
+1354,Gigaset,GX290,4.0,64.0,Black,Yes,275.5
+1355,Google,Pixel 3a,4.0,64.0,Black,Yes,187.4
+1356,Hammer,Blade 3,4.0,64.0,Black,Yes,235.22
+1357,Hammer,Construction,6.0,128.0,Black,Yes,317.88
+1358,Hammer,Energy 2,3.0,32.0,Black,Yes,272.98
+1359,Hammer,Energy 2,3.0,32.0,Silver,Yes,244.77
+1360,Hammer,Energy 2,3.0,32.0,Orange,Yes,160.51
+1361,Hammer,Energy 2,3.0,32.0,Black,Yes,160.51
+1362,Hammer,Explorer,3.0,32.0,Orange,Yes,528.46
+1363,Hammer,Explorer Plus Eco,4.0,64.0,Silver,Yes,235.22
+1364,Hammer,Energy 2,3.0,32.0,Orange,Yes,179.42
+1365,Hammer,Energy 2,3.0,32.0,Black,Yes,179.21
+1366,Hammer,Iron 3,3.0,32.0,Orange,Yes,169.9
+1367,Hammer,Iron 3,3.0,32.0,Black,No,169.9
+1368,Hammer,Extreme,3.0,32.0,Orange,Yes,188.6
+1369,Hammer,Extreme,3.0,32.0,Black,Yes,188.6
+1370,Hammer,Iron 4,4.0,32.0,Orange,Yes,197.91
+1371,Hammer,Iron 4,4.0,32.0,Gray,Yes,197.91
+1372,Hammer,Extreme,4.0,32.0,Orange,Yes,216.53
+1373,Hammer,Extreme,4.0,32.0,Black,Yes,216.53
+1374,Hammer,MyPhone Blade,6.0,128.0,Black,Yes,539.68
+1375,Honor,10,3.0,64.0,Black,Yes,272.92
+1376,Honor,20,4.0,128.0,Black,Yes,297.7
+1377,Honor,70,8.0,128.0,Black,Yes,566.43
+1378,Honor,70,8.0,128.0,Green,Yes,399.0
+1379,Honor,Magic4,6.0,128.0,Blue,Yes,300.89
+1380,Honor,Magic4,8.0,256.0,Turquoise,Yes,2271.28
+1381,Honor,Magic5,6.0,128.0,Black,Yes,303.53
+1382,Honor,View 20,6.0,128.0,Blue,Yes,483.33
+1383,Honor,X7,4.0,128.0,Blue,Yes,252.22
+1384,Honor,X7a,4.0,128.0,Black,Yes,235.79
+1385,Honor,X7a,4.0,128.0,Blue,Yes,216.77
+1386,Honor,X7a,4.0,128.0,Silver,Yes,173.64
+1387,Honor,X8,6.0,128.0,Blue,Yes,299.33
+1388,Huawei,Mate 10,3.0,64.0,Gold,Yes,300.72
+1389,Huawei,Mate 10,3.0,64.0,Black,Yes,312.2
+1390,Huawei,Mate 30,8.0,256.0,Black,Yes,689.0
+1391,Huawei,Nova 5T,6.0,128.0,Black,Yes,523.59
+1392,Huawei,Nova 5T,6.0,128.0,Blue,Yes,661.79
+1393,Huawei,P Smart 2019,4.0,3.0,Black,Yes,266.68
+1394,Huawei,P Smart 2020,4.0,128.0,Green,Yes,358.55
+1395,Huawei,P Smart,4.0,128.0,Black,Yes,316.81
+1396,Huawei,P Smart,4.0,128.0,Green,Yes,356.26
+1397,Huawei,P Smart,3.0,64.0,Black,Yes,187.4
+1398,Huawei,P20,4.0,128.0,Black,Yes,466.81
+1399,Huawei,P20,4.0,64.0,Purple,No,431.49
+1400,Huawei,P30,6.0,256.0,Crystal,Yes,552.62
+1401,Huawei,P30,8.0,128.0,Blue,Yes,299.0
+1402,Huawei,P30,8.0,256.0,Silver,Yes,999.0
+1403,Huawei,P40,8.0,128.0,Gold,Yes,652.29
+1404,Huawei,P40,8.0,128.0,Black,Yes,781.71
+1405,Huawei,P40,8.0,128.0,Silver,Yes,634.19
+1406,Huawei,P40,6.0,128.0,Black,Yes,508.78
+1407,Huawei,P40,6.0,128.0,Silver,Yes,425.07
+1408,Huawei,P40,6.0,128.0,Pink,Yes,386.33
+1409,Huawei,P40,4.0,64.0,Black,Yes,314.64
+1410,Huawei,P40,8.0,256.0,Gold,Yes,897.32
+1411,Huawei,P8,4.0,128.0,White,Yes,198.23
+1412,Huawei,P8,4.0,128.0,Black,Yes,248.0
+1413,Huawei,Y6,2.0,32.0,Brown,Yes,158.99
+1414,Huawei,Y6,2.0,32.0,Black,Yes,158.99
+1415,Huawei,Y6p,3.0,64.0,Green,Yes,273.67
+1416,LG,V40 ThinQ,6.0,128.0,Blue,Yes,570.74
+1417,Maxcom,MS572,3.0,32.0,Black,Yes,123.88
+1418,Motorola,Defy,4.0,64.0,Black,Yes,262.36
+1419,Motorola,Edge 20,8.0,128.0,Gray,Yes,479.0
+1420,Motorola,Edge 20,6.0,128.0,Gray,Yes,429.83
+1421,Motorola,Edge 20,8.0,128.0,Gray,Yes,339.01
+1422,Motorola,Edge 30,8.0,128.0,Gold,Yes,410.87
+1423,Motorola,Moto E20,2.0,32.0,Gray,Yes,144.01
+1424,Motorola,Moto G31,4.0,128.0,Blue,Yes,219.0
+1425,Motorola,Moto G32,4.0,128.0,Gray,Yes,206.99
+1426,Motorola,Moto G41,4.0,128.0,Black,Yes,132.7
+1427,Motorola,Moto G41,6.0,128.0,Black,Yes,312.77
+1428,Motorola,Moto G42,4.0,128.0,Pink,Yes,288.0
+1429,Motorola,Moto G51,4.0,128.0,Blue,Yes,271.11
+1430,Motorola,Moto G5s,8.0,128.0,Gold,Yes,192.09
+1431,Motorola,Moto G5s,8.0,128.0,Gray,Yes,391.13
+1432,Motorola,Moto G62,6.0,128.0,Gray,Yes,320.72
+1433,Motorola,One Zoom,8.0,4.0,Purple,Yes,338.93
+1434,Motorola,Razr 5G,8.0,256.0,Black,Yes,897.06
+1435,Nokia,3.4,3.0,64.0,Black,Yes,285.12
+1436,Nokia,7,8.0,69.0,Black,Yes,265.99
+1437,Nokia,C20,2.0,32.0,Blue,Yes,135.52
+1438,Nokia,C21,2.0,32.0,Gray,Yes,121.15
+1439,Nokia,C31,4.0,64.0,Gray,Yes,150.55
+1440,Nokia,G10,3.0,32.0,Blue,Yes,133.0
+1441,Nokia,X10,4.0,128.0,Green,Yes,468.72
+1442,OPPO,A16,3.0,32.0,Blue,Yes,186.52
+1443,OPPO,A16,4.0,64.0,Blue,Yes,207.22
+1444,OPPO,A16,4.0,64.0,Black,Yes,169.0
+1445,OPPO,A77,4.0,64.0,Blue,Yes,158.01
+1446,OPPO,A77,6.0,128.0,Black,Yes,275.31
+1447,OPPO,A78,8.0,128.0,Blue,Yes,279.95
+1448,OPPO,A78,8.0,128.0,Blue,Yes,262.0
+1449,OPPO,A78,8.0,128.0,Black,Yes,262.0
+1450,OPPO,Reno6,12.0,256.0,Gray,Yes,799.0
+1451,OPPO,Reno8,8.0,256.0,Black,Yes,753.02
+1452,OnePlus,9,8.0,128.0,Blue,Yes,650.0
+1453,OnePlus,9 Pro,12.0,256.0,Black,Yes,910.53
+1454,OPPO,A54s,4.0,128.0,Blue,Yes,294.36
+1455,OPPO,A94,8.0,128.0,Blue,Yes,379.0
+1456,OPPO,X2,12.0,512.0,Orange,Yes,670.07
+1457,OPPO,Reno4,8.0,128.0,Blue,Yes,599.0
+1458,OPPO,Reno4,8.0,128.0,White,Yes,399.0
+1459,OPPO,Reno4,8.0,128.0,Black,Yes,353.01
+1460,POCO,F4,8.0,256.0,Black,Yes,449.99
+1461,POCO,M5,4.0,64.0,Green,Yes,189.99
+1462,Xiaomi,M5s,4.0,128.0,Black,Yes,249.9
+1463,Xiaomi,M5s,4.0,64.0,Blue,Yes,229.9
+1464,Xiaomi,M5s,4.0,64.0,White,Yes,249.9
+1465,Xiaomi,M5s,4.0,64.0,Black,Yes,210.0
+1466,POCO,X4,8.0,128.0,Silver,Yes,465.35
+1467,POCO,X4,8.0,256.0,Blue,Yes,429.99
+1468,POCO,X4,8.0,256.0,Silver,Yes,429.99
+1469,POCO,X4,8.0,256.0,Yellow,Yes,369.0
+1470,POCO,X5,6.0,128.0,Blue,Yes,261.66
+1471,POCO,X5 Pro,8.0,256.0,Black,Yes,376.77
+1472,Qubo,P-668,4.0,64.0,Blue,Yes,116.51
+1473,Qubo,X-626,2.0,32.0,Blue,Yes,94.04
+1474,Realme,6,6.0,128.0,Blue,Yes,180.42
+1475,Realme,6,8.0,128.0,Blue,Yes,209.0
+1476,Realme,6i,4.0,128.0,Green,Yes,166.0
+1477,Realme,8,6.0,128.0,Black,Yes,295.41
+1478,Realme,8,6.0,128.0,Silver,Yes,209.0
+1479,Realme,8I,4.0,64.0,Purple,Yes,254.79
+1480,Realme,9,4.0,64.0,White,Yes,262.58
+1481,Realme,9,6.0,128.0,White,Yes,285.0
+1482,Realme,9,8.0,128.0,White,Yes,327.37
+1483,Realme,9,8.0,128.0,Gold,Yes,301.6
+1484,Realme,9 Pro,6.0,128.0,Blue,Yes,402.59
+1485,Realme,C11,2.0,32.0,Gray,Yes,115.0
+1486,Realme,C11,2.0,32.0,Blue,Yes,111.6
+1487,Realme,C11,2.0,32.0,Gray,Yes,135.05
+1488,Realme,C11,4.0,64.0,Gray,Yes,194.89
+1489,Realme,C21,4.0,64.0,Black,Yes,168.44
+1490,Realme,C21,4.0,64.0,Blue,Yes,168.44
+1491,Realme,C31,3.0,32.0,Silver,Yes,152.59
+1492,Realme,C33,4.0,64.0,Gold,Yes,172.59
+1493,Realme,C35,4.0,64.0,Black,Yes,182.59
+1494,Realme,C55,6.0,128.0,Black,Yes,201.6
+1495,Realme,GT,8.0,128.0,Silver,Yes,441.92
+1496,Realme,GT Neo 3,8.0,256.0,Blue,Yes,541.46
+1497,Realme,GT Neo 3,8.0,256.0,White,Yes,549.78
+1498,Realme,Narzo 30,4.0,128.0,Blue,Yes,209.0
+1499,Realme,X50 Pro,8.0,256.0,Green,Yes,772.13
+1500,SPC,Discovery,3.0,128.0,Blue,Yes,129.91
+1501,SPC,Smart 2,1.0,16.0,Gray,Yes,89.75
+1502,SPC,Smart 3,3.0,32.0,Gray,Yes,107.25
+1503,SPC,Smart Max 2,1.0,16.0,Turquoise,Yes,108.11
+1504,SPC,Smart Pro,3.0,32.0,Black,Yes,99.95
+1505,Samsung,Galaxy A03,4.0,64.0,Black,Yes,174.0
+1506,Samsung,A03s,3.0,32.0,Black,Yes,230.98
+1507,Samsung,Galaxy A04s,3.0,32.0,Black,Yes,130.0
+1508,Samsung,Galaxy A12,6.0,128.0,Blue,Yes,249.42
+1509,Samsung,Galaxy A12,4.0,64.0,Black,Yes,215.0
+1510,Samsung,Galaxy A13,3.0,32.0,Blue,Yes,196.18
+1511,Samsung,Galaxy A13,3.0,32.0,Black,Yes,187.88
+1512,Samsung,Galaxy A13,4.0,128.0,Blue,Yes,254.41
+1513,Samsung,Galaxy A13,4.0,128.0,White,Yes,209.25
+1514,Samsung,Galaxy A13,4.0,128.0,Blue,Yes,243.49
+1515,Samsung,Galaxy A13,4.0,64.0,Blue,Yes,190.35
+1516,Samsung,Galaxy A13,4.0,64.0,Blue,Yes,231.99
+1517,Samsung,Galaxy A13,4.0,64.0,White,Yes,232.05
+1518,Samsung,Galaxy A13,4.0,64.0,White,Yes,183.61
+1519,Samsung,Galaxy A13,4.0,64.0,Black,Yes,230.3
+1520,Samsung,Galaxy A14,4.0,128.0,Silver,Yes,209.41
+1521,Samsung,Galaxy A23,4.0,128.0,Blue,Yes,252.3
+1522,Samsung,Galaxy A23,4.0,128.0,Black,Yes,300.26
+1523,Samsung,Galaxy A23,4.0,64.0,Blue,Yes,259.9
+1524,Samsung,Galaxy A23,4.0,64.0,Black,Yes,235.08
+1525,Samsung,Galaxy A31,4.0,128.0,Black,Yes,389.0
+1526,Samsung,Galaxy A33,6.0,128.0,Black,Yes,390.99
+1527,Samsung,Galaxy A33,6.0,128.0,White,Yes,359.0
+1528,Samsung,Galaxy A33,6.0,128.0,White,Yes,343.89
+1529,Samsung,Galaxy A33,6.0,128.0,Orange,Yes,356.45
+1530,Samsung,Galaxy A41,4.0,64.0,Blue,Yes,384.47
+1531,Samsung,Galaxy A41,4.0,64.0,White,Yes,370.53
+1532,Samsung,Galaxy A41,4.0,64.0,Black,Yes,439.51
+1533,Samsung,Galaxy A42,4.0,128.0,Gray,Yes,425.9
+1534,Samsung,Galaxy A51,4.0,128.0,Silver,Yes,515.48
+1535,Samsung,Galaxy A51,6.0,128.0,Pink,Yes,453.5
+1536,Samsung,Galaxy A52s,6.0,128.0,Black,Yes,439.9
+1537,Samsung,Galaxy A52s,6.0,128.0,Green,Yes,454.57
+1538,Samsung,Galaxy A52s,6.0,128.0,Black,Yes,443.34
+1539,Samsung,Galaxy A53,6.0,128.0,Blue,Yes,431.47
+1540,Samsung,Galaxy A53,6.0,128.0,White,Yes,421.26
+1541,Samsung,Galaxy A53,6.0,128.0,Orange,Yes,417.55
+1542,Samsung,Galaxy A53,6.0,128.0,Black,Yes,405.52
+1543,Samsung,Galaxy A53,8.0,256.0,White,Yes,572.55
+1544,Samsung,Galaxy A53,8.0,256.0,Orange,Yes,559.36
+1545,Samsung,Galaxy A70,6.0,128.0,Pink,Yes,425.9
+1546,Samsung,Galaxy A9,8.0,128.0,Black,Yes,482.74
+1547,Samsung,A90,6.0,128.0,Black,Yes,640.59
+1548,Samsung,Galaxy M13,4.0,64.0,Blue,Yes,166.91
+1549,Samsung,Galaxy M32,6.0,128.0,White,Yes,461.05
+1550,Samsung,Galaxy M53,6.0,128.0,Brown,Yes,369.95
+1551,Samsung,Galaxy Note 10,6.0,256.0,Purple,Yes,700.97
+1552,Samsung,Galaxy Note 10,6.0,256.0,Pink,Yes,700.97
+1553,Samsung,Galaxy Note 20,8.0,256.0,Gray,Yes,887.46
+1554,Samsung,Note 9,3.0,128.0,Black,Yes,522.28
+1555,Samsung,S10+,6.0,128.0,Green,Yes,563.69
+1556,Samsung,S10+,12.0,512.0,White,Yes,674.77
+1557,Samsung,Galaxy S20,12.0,128.0,Blue,Yes,719.12
+1558,Samsung,Galaxy S20,8.0,128.0,Blue,Yes,517.37
+1559,Samsung,Galaxy S20,6.0,128.0,Blue,Yes,594.23
+1560,Samsung,Galaxy S20,6.0,128.0,White,Yes,649.0
+1562,Samsung,Galaxy S20,6.0,128.0,Blue,Yes,552.38
+1563,Samsung,Galaxy S20,12.0,128.0,Gray,Yes,961.03
+1564,Samsung,Galaxy S20,8.0,128.0,Gray,Yes,773.44
+1565,Samsung,Galaxy S21,8.0,128.0,Gray,Yes,734.39
+1566,Samsung,Galaxy S21,6.0,128.0,White,Yes,759.0
+1567,Samsung,Galaxy S21,6.0,128.0,Green,Yes,472.15
+1568,Samsung,Galaxy S21,8.0,256.0,Gray,Yes,769.51
+1569,Samsung,Galaxy S21,7.0,128.0,Silver,Yes,759.0
+1570,Samsung,Galaxy S21,7.0,128.0,Silver,Yes,889.65
+1571,Samsung,Galaxy S22,10.0,256.0,White,Yes,681.0
+1572,Samsung,Galaxy S22,10.0,256.0,Pink,Yes,681.0
+1573,Samsung,Galaxy S22,10.0,256.0,Green,Yes,815.94
+1574,Samsung,Galaxy S22,8.0,128.0,Pink,Yes,619.96
+1575,Samsung,Galaxy S22,8.0,256.0,White,Yes,815.94
+1576,Samsung,Galaxy S22,10.0,128.0,White,Yes,866.0
+1577,Samsung,Galaxy S22,10.0,128.0,Black,Yes,866.0
+1578,Samsung,Galaxy S22,10.0,128.0,Pink,Yes,866.0
+1579,Samsung,Galaxy S22,12.0,512.0,Black,Yes,1625.36
+1580,Samsung,Galaxy S22,12.0,512.0,Green,Yes,1688.53
+1582,Samsung,Galaxy S23,8.0,256.0,Purple,Yes,1065.47
+1583,Samsung,Galaxy S23,8.0,256.0,Green,Yes,818.0
+1584,Samsung,Galaxy S23,6.0,128.0,Black,Yes,857.62
+1585,Samsung,Galaxy S23,8.0,256.0,Black,Yes,930.28
+1586,Samsung,Galaxy S23,8.0,1000.0,Green,Yes,2191.29
+1587,Samsung,Galaxy S8,4.0,64.0,Black,Yes,365.53
+1588,Samsung,Galaxy S8,4.0,64.0,Black,Yes,368.57
+1589,Samsung,Galaxy S8,4.0,64.0,Black,Yes,398.16
+1590,Samsung,Z Flip,8.0,256.0,Black,Yes,769.0
+1591,Samsung,Galaxy Z Flip3,8.0,128.0,White,No,589.0
+1592,Samsung,Galaxy Z Flip3,8.0,128.0,Black,Yes,703.0
+1593,Samsung,Galaxy Z Flip3,8.0,256.0,White,No,735.99
+1594,Samsung,Galaxy Z Flip3,8.0,256.0,Black,No,1409.35
+1595,Samsung,Galaxy Z Flip4,8.0,128.0,Gray,No,1102.93
+1596,Samsung,Galaxy Z Flip4,8.0,128.0,Gray,Yes,735.92
+1597,Samsung,Galaxy Z Flip4,8.0,128.0,Purple,Yes,1330.5
+1598,Samsung,Galaxy Z Flip4,8.0,128.0,Purple,Yes,965.2
+1599,Samsung,Galaxy Z Flip4,8.0,128.0,Pink,Yes,965.2
+1600,Samsung,Galaxy Z Flip4,8.0,256.0,Gray,Yes,1011.0
+1601,Samsung,Galaxy Z Flip4,8.0,256.0,Purple,Yes,1143.53
+1602,Samsung,Galaxy Z Flip4,8.0,256.0,Pink,Yes,888.2
+1603,Samsung,Galaxy Z Flip4,8.0,512.0,Blue,Yes,1169.66
+1604,Samsung,Galaxy Z Flip4,8.0,512.0,Gray,Yes,1172.7
+1605,Samsung,Galaxy Z Fold3,8.0,256.0,Black,Yes,1326.03
+1606,Samsung,Galaxy Z Fold3,12.0,512.0,Black,Yes,1631.82
+1607,Samsung,Galaxy Z Fold4,12.0,256.0,Black,Yes,1802.94
+1609,Swissvoice,S510-M,2.0,16.0,Black,Yes,179.99
+1610,TCL,10,6.0,128.0,Blue,Yes,346.19
+1611,TCL,10,6.0,128.0,Gray,Yes,490.11
+1612,TCL,10,6.0,128.0,Gray,Yes,568.91
+1613,TCL,20,6.0,256.0,Gray,Yes,549.99
+1614,TCL,20 R,4.0,64.0,Gray,Yes,209.99
+1615,TCL,205,2.0,32.0,Blue,Yes,109.99
+1616,TCL,205,2.0,32.0,Gray,Yes,134.92
+1617,TCL,20L,4.0,128.0,Black,Yes,305.59
+1618,TCL,30E,3.0,64.0,Blue,Yes,149.99
+1619,TCL,405,2.0,32.0,Gray,Yes,113.04
+1620,TCL,405,2.0,32.0,Blue,Yes,112.06
+1621,Ulefone,11T,8.0,256.0,Black,Yes,593.7
+1622,Ulefone,Armor 17,8.0,256.0,Black,Yes,350.23
+1623,Ulefone,20WT,12.0,256.0,Black,Yes,450.87
+1624,Ulefone,Armor 8,4.0,64.0,Black,Yes,198.27
+1625,Ulefone,Armor 8,4.0,64.0,Red,Yes,233.22
+1626,Ulefone,Armor X10,4.0,64.0,Gray,Yes,253.43
+1627,Ulefone,X5,3.0,32.0,Red,Yes,172.01
+1628,Ulefone,X5 Pro,4.0,64.0,Orange,Yes,193.2
+1629,Ulefone,X5 Pro,4.0,64.0,Red,Yes,193.2
+1630,Ulefone,X7,4.0,32.0,Black,Yes,129.99
+1631,Ulefone,Armor X9,3.0,32.0,Green,Yes,203.22
+1632,Ulefone,Armor X9,4.0,64.0,Black,Yes,159.99
+1633,Ulefone,Note 7,2.0,16.0,Green,Yes,93.81
+1634,Ulefone,Note 8P,2.0,16.0,Orange,Yes,158.4
+1635,Ulefone,Power Armor 13,8.0,256.0,Black,Yes,507.45
+1636,Ulefone,Power Armor 14,4.0,64.0,Black,Yes,252.12
+1637,Ulefone,Power Armor 16,4.0,64.0,Orange,Yes,260.38
+1638,Vivo,V23,12.0,256.0,Black,Yes,523.2
+1639,Vivo,X60 Pro,12.0,256.0,Blue,Yes,1152.98
+1640,Vivo,Y01,3.0,32.0,Blue,Yes,120.93
+1641,Vivo,Y21,4.0,64.0,Blue,Yes,157.0
+1642,Vivo,Y21,4.0,64.0,White,Yes,157.0
+1643,Vivo,Y21s,4.0,128.0,Blue,Yes,196.69
+1644,Vivo,Y33s,8.0,128.0,Black,Yes,226.8
+1645,Vivo,Y52,4.0,128.0,Black,Yes,284.05
+1646,Xiaomi,11T,8.0,128.0,White,Yes,499.98
+1647,Xiaomi,11T,8.0,256.0,White,Yes,558.63
+1648,Xiaomi,11T,8.0,256.0,Gray,Yes,557.89
+1649,Xiaomi,11T Pro,8.0,128.0,White,Yes,614.95
+1650,Xiaomi,11T Pro,8.0,128.0,Gray,Yes,1000.0
+1651,Xiaomi,12,8.0,256.0,Purple,Yes,1139.35
+1652,Xiaomi,12T,8.0,128.0,Blue,Yes,599.99
+1653,Xiaomi,12T,8.0,128.0,Silver,Yes,599.99
+1654,Xiaomi,Mi 10T,6.0,128.0,Black,Yes,160.0
+1655,Xiaomi,Mi 10T,6.0,128.0,Blue,Yes,572.58
+1656,Xiaomi,Mi 10T,6.0,128.0,Pink,Yes,475.74
+1657,Xiaomi,Mi 11,8.0,128.0,Black,Yes,392.68
+1658,Xiaomi,Mi 11,12.0,256.0,White,Yes,758.84
+1659,Xiaomi,Mi 11i,8.0,128.0,Silver,Yes,358.99
+1660,Xiaomi,Mi 9,6.0,128.0,Blue,Yes,358.01
+1661,Xiaomi,Mi 9,6.0,128.0,White,Yes,371.0
+1662,Xiaomi,Mi 9,6.0,128.0,Gray,Yes,358.01
+1663,Xiaomi,Mi MIX 3,6.0,128.0,Black,Yes,586.02
+1664,Xiaomi,Mi Mix 2,8.0,128.0,White,Yes,532.0
+1665,Xiaomi,Mi Mix,4.0,64.0,Black,Yes,309.0
+1666,Xiaomi,Mi Note 10,6.0,128.0,Black,Yes,469.58
+1667,Xiaomi,POCO M3,4.0,64.0,Yellow,Yes,263.89
+1668,Xiaomi,POCO M3,4.0,64.0,Blue,Yes,212.23
+1669,Xiaomi,Pack Mi 10,8.0,128.0,Gray,No,576.7
+1670,Xiaomi,PocoPhone F3,6.0,128.0,Blue,Yes,343.0
+1671,Xiaomi,Redmi 10,4.0,64.0,White,Yes,178.69
+1672,Xiaomi,Redmi 10,4.0,128.0,White,Yes,240.09
+1673,Xiaomi,Redmi 10,4.0,64.0,Green,Yes,179.0
+1674,Xiaomi,Redmi 10A,3.0,64.0,Gray,Yes,110.03
+1675,Xiaomi,Redmi 10A,4.0,128.0,Silver,Yes,154.5
+1676,Xiaomi,Redmi 10C,4.0,64.0,Blue,Yes,130.91
+1677,Xiaomi,Redmi 9,4.0,64.0,Purple,Yes,200.0
+1678,Xiaomi,Redmi 9A,2.0,32.0,Gray,Yes,122.0
+1679,Xiaomi,Redmi 9A,2.0,32.0,Gray,No,142.09
+1680,Xiaomi,Redmi 9A,2.0,32.0,Gray,Yes,111.5
+1681,Xiaomi,Redmi 9A,2.0,32.0,Green,No,93.9
+1682,Xiaomi,Redmi 9AT,2.0,32.0,Green,Yes,139.0
+1683,Xiaomi,Redmi 9C,2.0,32.0,Blue,Yes,119.0
+1684,Xiaomi,Redmi 9C,2.0,32.0,Orange,Yes,151.83
+1685,Xiaomi,Redmi 9C,4.0,128.0,Blue,Yes,179.99
+1686,Xiaomi,Redmi 9C,2.0,32.0,Blue,Yes,138.13
+1687,Xiaomi,Redmi 9C,3.0,64.0,Blue,Yes,173.93
+1688,Xiaomi,Redmi A1,2.0,32.0,Blue,Yes,117.2
+1689,Xiaomi,Redmi A1,2.0,32.0,Black,Yes,136.23
+1690,Xiaomi,Redmi Note 10,4.0,128.0,Blue,Yes,308.96
+1691,Xiaomi,Redmi Note 10,4.0,128.0,Gray,Yes,1000.0
+1692,Xiaomi,Redmi Note 10,4.0,128.0,Green,Yes,249.99
+1693,Xiaomi,Redmi Note 10,4.0,64.0,Silver,Yes,239.0
+1694,Xiaomi,Redmi Note 10,4.0,64.0,Green,Yes,229.99
+1695,Xiaomi,Redmi Note 10,6.0,128.0,Red,Yes,329.99
+1696,Xiaomi,Redmi Note 10,6.0,64.0,Red,Yes,253.45
+1697,Xiaomi,Note 10S,6.0,128.0,Blue,Yes,268.51
+1698,Xiaomi,Note 10S,6.0,64.0,White,Yes,231.4
+1699,Xiaomi,Redmi Note 11,4.0,128.0,Blue,Yes,252.39
+1700,Xiaomi,11 Pro,6.0,128.0,Gray,Yes,349.9
+1701,Xiaomi,11 Pro,6.0,64.0,Blue,Yes,326.0
+1702,Xiaomi,11 Pro,6.0,64.0,Gray,Yes,349.99
+1703,Xiaomi,11 Pro,8.0,128.0,White,Yes,378.46
+1704,Xiaomi,11 Pro,8.0,128.0,Gray,Yes,395.31
+1705,Xiaomi,11 Pro,6.0,128.0,Blue,Yes,552.86
+1706,Xiaomi,11 Pro,6.0,128.0,Green,Yes,381.13
+1707,Xiaomi,11 Pro,8.0,128.0,Gray,Yes,494.72
+1708,Xiaomi,Redmi Note 12,4.0,128.0,Green,Yes,283.37
+1709,Xiaomi,Redmi Note 8,4.0,64.0,Blue,Yes,237.26
+1710,Xiaomi,Redmi Note 9,3.0,64.0,Green,Yes,109.0
+1711,Xiaomi,9 Pro,6.0,64.0,Gray,Yes,265.0
+1712,Xiaomi,Note 9S,4.0,64.0,Blue,Yes,147.87
+1713,Xiaomi,Redmi Note 9T,4.0,64.0,Black,Yes,238.72
+1714,Xiaomi,Redmi Note 9T,4.0,64.0,Purple,Yes,282.84
+1715,ZTE,Blade A31,2.0,32.0,Gray,Yes,84.9
+1716,ZTE,Blade A5,2.0,32.0,Blue,Yes,128.11
+1717,ZTE,Blade A5,2.0,32.0,Black,Yes,133.74
+1718,ZTE,Blade A51,2.0,32.0,Gray,Yes,99.66
+1719,ZTE,Blade A71,3.0,64.0,Gray,Yes,118.31
+1720,ZTE,Blade V30,4.0,128.0,Gray,Yes,190.9
+1721,Realme,7,8.0,128.0,White,Yes,195.0
+1722,Realme,8,6.0,128.0,Black,Yes,225.0
+1723,Realme,C21,3.0,32.0,Blue,Yes,188.97
+1724,Alcatel,1SE,6.0,64.0,Gray,Yes,139.99
+1725,Apple,iPhone 11,7.0,256.0,Yellow,Yes,550.01
+1726,Apple,11 Pro,7.0,512.0,Green,Yes,606.0
+1727,Apple,iPhone 13,7.0,1000.0,Blue,Yes,1739.0
+1728,Apple,iPhone 13,7.0,1000.0,Black,Yes,1739.0
+1729,Apple,iPhone 13,7.0,1000.0,Gold,Yes,1739.0
+1730,Apple,iPhone 13,7.0,1000.0,Green,Yes,1739.0
+1731,Apple,iPhone 13,7.0,512.0,Blue,Yes,1509.0
+1732,Apple,iPhone 13,7.0,1000.0,Gold,Yes,1839.0
+1733,Apple,iPhone 13,7.0,512.0,Black,Yes,1609.0
+1734,Apple,iPhone 13,7.0,512.0,Gold,Yes,1609.0
+1735,Apple,iPhone 6s,7.0,32.0,Gold,Yes,136.0
+1736,Apple,iPhone 6s,7.0,32.0,Pink,Yes,136.0
+1737,Apple,iPhone 6s,7.0,32.0,Gold,Yes,140.0
+1738,Apple,iPhone 6s,7.0,32.0,Gray,Yes,109.0
+1739,Apple,iPhone 6s,7.0,32.0,Silver,Yes,140.0
+1740,Apple,iPhone 6s,7.0,32.0,Pink,Yes,140.0
+1741,Apple,iPhone 7,7.0,128.0,Gold,Yes,140.0
+1742,Apple,iPhone XR,7.0,256.0,Yellow,Yes,429.01
+1743,Apple,iPhone XR,7.0,256.0,Blue,Yes,439.0
+1744,Apple,iPhone XS,7.0,512.0,Gold,Yes,419.0
+1745,Crosscall,X3,9.0,197.0,Blue,Yes,349.0
+1746,Crosscall,Core-M4,2.0,32.0,Black,Yes,299.0
+1747,Crosscall,X4,4.0,64.0,Black,Yes,699.0
+1748,Honor,7X,6.0,128.0,Black,No,468.0
+1749,Huawei,Mate 20,4.0,34.0,Black,Yes,239.0
+1750,Huawei,Mate 20,4.0,34.0,Blue,Yes,248.0
+1751,Huawei,Y6p,3.0,64.0,Purple,Yes,214.0
+1752,Lenovo,Legion Phone Duel,12.0,256.0,Black,Yes,757.18
+1753,Motorola,Moto G5s,8.0,128.0,Gold,Yes,144.99
+1754,Motorola,Moto G5s,8.0,128.0,Gray,Yes,144.99
+1755,Nokia,8.3,8.0,128.0,Black,Yes,569.0
+1756,OPPO,X5 Pro,12.0,256.0,White,Yes,747.18
+1757,OnePlus,6T,8.0,8.0,Black,Yes,550.01
+1758,OnePlus,7,8.0,8.0,Gray,Yes,600.0
+1759,OnePlus,7T,8.0,256.0,Blue,Yes,352.0
+1760,OPPO,A91,8.0,128.0,Blue,Yes,1000.0
+1761,OPPO,Reno2 Z,8.0,128.0,White,Yes,184.0
+1762,POCO,X3,8.0,256.0,Black,Yes,299.99
+1763,POCO,X3,8.0,256.0,Blue,Yes,299.99
+1764,Realme,9,6.0,128.0,Gold,Yes,281.6
+1765,Realme,X2,12.0,256.0,Blue,Yes,442.0
+1766,Samsung,Galaxy A10,2.0,32.0,Red,Yes,95.0
+1767,Samsung,Galaxy A32,4.0,128.0,Blue,Yes,333.0
+1768,Samsung,Galaxy A50,4.0,128.0,Pink,Yes,165.0
+1769,Samsung,Galaxy A52,6.0,128.0,Purple,Yes,299.0
+1770,Samsung,Galaxy A52,6.0,128.0,White,Yes,400.0
+1771,Samsung,A80,8.0,128.0,Black,Yes,254.0
+1772,Samsung,Galaxy Note 10,6.0,128.0,Red,No,229.0
+1773,Samsung,Galaxy Note 20,8.0,256.0,Green,Yes,379.0
+1774,Samsung,Galaxy Note 20,8.0,256.0,Green,Yes,369.0
+1775,Samsung,Note 9,3.0,128.0,Purple,No,298.0
+1776,Samsung,Galaxy S10,8.0,128.0,Black,Yes,493.0
+1777,Samsung,Galaxy S10,8.0,128.0,Blue,No,263.01
+1778,Samsung,Galaxy S10,8.0,128.0,White,No,263.01
+1779,Samsung,S10+,6.0,128.0,Green,Yes,670.0
+1780,Samsung,S10+,8.0,1000.0,Black,Yes,378.0
+1781,Samsung,S10e,8.0,128.0,Yellow,Yes,224.0
+1782,Samsung,Galaxy S20,12.0,128.0,White,Yes,428.0
+1783,Samsung,Galaxy S22,10.0,128.0,Black,Yes,668.78
+1784,Samsung,Galaxy S22,10.0,512.0,Red,Yes,933.38
+1785,Samsung,Galaxy S22,10.0,512.0,Black,Yes,1359.0
+1786,Samsung,Galaxy S8,4.0,64.0,Gray,Yes,160.0
+1787,Samsung,Galaxy Z Flip3,8.0,128.0,White,No,999.0
+1788,Samsung,Galaxy Z Flip3,8.0,128.0,Green,No,999.0
+1789,Samsung,Galaxy Z Flip3,8.0,256.0,Purple,No,1049.0
+1790,Samsung,Galaxy Z Flip3,8.0,128.0,Green,Yes,569.0
+1791,Samsung,Galaxy Z Fold3,8.0,256.0,Black,No,1599.0
+1792,Samsung,Galaxy Z Fold3,12.0,512.0,Black,No,1699.0
+1793,Samsung,Galaxy Z Fold4,12.0,256.0,White,Yes,1802.94
+1794,Samsung,Galaxy Z Fold4,12.0,512.0,Green,Yes,1922.93
+1795,Xiaomi,11 Lite,8.0,128.0,White,Yes,1000.0
+1796,Xiaomi,11T Pro,8.0,256.0,White,Yes,308.01
+1797,Xiaomi,10,8.0,256.0,Green,Yes,289.0
+1798,Xiaomi,10,6.0,64.0,Gray,Yes,210.03
+1799,Xiaomi,Mi 10T,6.0,64.0,Blue,Yes,350.0
+1800,Xiaomi,Mi 11,6.0,64.0,Black,Yes,203.03
+1801,Xiaomi,Mi Note 10,6.0,128.0,White,Yes,240.0
+1802,Xiaomi,Mi Note 10,6.0,128.0,Purple,No,379.0
+1803,Xiaomi,Mi Note 10,8.0,256.0,Green,Yes,300.72
+1804,Xiaomi,X3,6.0,128.0,Blue,Yes,176.38
+1805,Xiaomi,Pocophone F2,6.0,128.0,Blue,Yes,229.92
+1806,Xiaomi,Redmi 9,3.0,32.0,Gray,Yes,180.0
+1807,Xiaomi,9T,4.0,64.0,Green,Yes,198.0
+1808,Xiaomi,Redmi Note 10,4.0,64.0,Green,Yes,219.0
+1810,Xiaomi,Redmi Note 8,4.0,128.0,Black,Yes,271.0
+1811,Xiaomi,Redmi Note 8,4.0,64.0,Blue,Yes,249.01
+1812,Xiaomi,Redmi Note 8T,4.0,128.0,Blue,Yes,200.0
+1813,Xiaomi,Redmi Note 9,4.0,128.0,White,Yes,269.0
+1814,Xiaomi,Note 9S,4.0,64.0,Gray,Yes,211.0
+1815,Xiaomi,Note 9S,6.0,128.0,Gray,Yes,289.0
