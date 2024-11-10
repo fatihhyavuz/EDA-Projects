@@ -47,7 +47,7 @@ Explore the following EDA projects to see how I applied data analysis techniques
 
    [View Project](https://github.com/fatihhyavuz/EDA-Projects/tree/main/Mini%20EDA%20and%20Data%20Visualiztion%20Project)
 
-### 5. **Sales Analysis ** 
+### 5. **Sales Analysis** 
 
    - **Goal:** To analyze sales data from different industries and identify revenue drivers and customer segments.
   
@@ -65,6 +65,14 @@ Explore the following EDA projects to see how I applied data analysis techniques
   
 
   [View Project](https://github.com/fatihhyavuz/EDA-Projects/tree/main/netflix)
+
+### 8. **Student-Performance-Factors-Analysis**
+   - **Goal:** comprehensive EDA study that aims to gain data-driven insights by analyzing various factors affecting students' achievement.
+  
+
+  [View Project](https://github.com/fatihhyavuz/EDA-Projects/tree/master/Student-Performance-Factors-Analysis)
+
+  
 
 ## 🚀 Getting Started
 
