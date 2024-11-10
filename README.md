@@ -72,7 +72,11 @@ Explore the following EDA projects to see how I applied data analysis techniques
 
   [View Project](https://github.com/fatihhyavuz/EDA-Projects/tree/master/Student-Performance-Factors-Analysis)
 
+ ### 8. **Smartphone_Sales_Analysis**
+   - **Goal:** A project aimed at analyzing sales trends in the smartphone market to understand brand performance and  in consumer preferences.
   
+
+  [View Project](https://github.com/fatihhyavuz/EDA-Projects/tree/master/Phone-Sales) 
 
 ## 🚀 Getting Started
 
